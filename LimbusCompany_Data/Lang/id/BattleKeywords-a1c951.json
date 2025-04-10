@@ -1,0 +1,18 @@
+{
+  "dataList": [
+    {
+      "id": "AaCeSeBa",
+      "name": "OH ! OH ! OH !",
+      "desc": "Fin du Tour : gagne (Calme sur soi/5) de Compte de Calme au prochain tour.\nExpire à 0 Charge.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCeSeBb",
+      "name": "Je Vais t’Emballer dans un Cadeau",
+      "desc": "Gagne 3 Calme chaque tour.\nFin du Tour : se soigne de 3 PSM pour chaque Capacité Offensive ayant infligé des dégâts",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

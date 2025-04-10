@@ -1,0 +1,74 @@
+{
+  "dataList": [
+    {
+      "id": "battle_speechbubble_cromer_1",
+      "desc": "말풍선 특수 대사_크로머",
+      "dlg": "Aah... Serait-ce... Tu es...\nMon Sinclair...?"
+    },
+    {
+      "id": "battle_speechbubble_10808_1",
+      "desc": "말풍선 특수 대사_피쿼드호 선장 이스마엘",
+      "dlg": "De ma faute, dis-tu...? Quelle faute ?\nC'est grâce à moi, je n'ose dire."
+    },
+    {
+      "id": "battle_speechbubble_10408_1",
+      "desc": "말풍선 특수 대사_에드가 가문 치프 버틀러 료슈",
+      "dlg": "Q.D.\nTu as échoué en tant que Cheffe des Majordomes."
+    },
+    {
+      "id": "battle_react_10710_1",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Quelle réception pathétique !"
+    },
+    {
+      "id": "battle_react_10710_2",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "… Je t’arracherai ces\nyeux méprisants."
+    },
+    {
+      "id": "battle_react_10710_3",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Ne comprends-tu toujours pas ?\nQue tu n’es… rien d’autre qu’une proie !"
+    },
+    {
+      "id": "battle_react_10710_4",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Un sale cabot trempé, à présent ?\nOh, cela ne te rappelle pas du\njour où j’ai pris ta place ?! HAHAHAHA !"
+    },
+    {
+      "id": "battle_react_10710_5",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Hmph, comment des plongeurs glorifiés tels que vous\nosent pointer leurs couteaux vers moi ?"
+    },
+    {
+      "id": "battle_react_10710_6",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Catherine… ?! C’est moi, Heathcliff… !\nS’il te plaît, enlace-moi à nouveau !!!"
+    },
+    {
+      "id": "battle_react_10710_7",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Peu importe quel genre d’Heathcliff tu es !\nJe rendrai miennes toutes les Catherine !!!"
+    },
+    {
+      "id": "battle_react_10310_10",
+      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+      "dlg": "… Vous avez abandonné votre rêve pour la Famille ?\nVous, qui prêchiez votre rêve à\nchacune de vos respirations… ?"
+    },
+    {
+      "id": "battle_react_10310_11",
+      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+      "dlg": "Non… Elle n’est pas comme ma sœur."
+    },
+    {
+      "id": "battle_react_10310_12",
+      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+      "dlg": "Vous osez lever votre lame vers un Parent supérieur ?\nUne punition pour cette impiété filiale vous attend.\n… De même pour moi, je suppose…"
+    },
+    {
+      "id": "battle_react_10310_13",
+      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+      "dlg": "Ces blessures… Le Prêtre de ce monde devait\nêtre tout autant hanté par la culpabilité."
+    }
+  ]
+}

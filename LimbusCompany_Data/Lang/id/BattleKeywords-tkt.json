@@ -1,0 +1,122 @@
+{
+  "dataList": [
+    {
+      "id": "FusionVibration",
+      "name": "Intrication d’Amplitude",
+      "desc": "- Fusionne les effets du type de Tremblement ajouté par Intrication d’Amplitude et le type de Tremblement actuellement sur la cible dans Tremblement - Superposition.\n- Les valeurs d’Intensité et de Compte ne changent pas suite à l’Intrication.\n- En déclenchant une Conversion d’Amplitude sur Tremblement - Superposition, active Intrication d’Amplitude à la place.\n- Fin du Tour : converti en Tremblement de base.",
+      "summary": ""
+    },
+    {
+      "id": "VibrationNesting",
+      "name": "Tremblement - Superposition",
+      "desc": "- Obtenu à l’aide d’Intrication d’Amplitude\n- En déclenchant Conversion d’Amplitude, ajoute les effets des types de Tremblement résultants à la liste des effets actifs de Tremblement sous Tremblement - Superposition.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationDistribution",
+      "name": "Tremblement - Distribution",
+      "desc": "- Fin du Tour : gagne ((somme du Compte de Tremblement de tous les alliés) / (# d’alliés en vie)) Bonus de Niveau Offensif au prochain tour (5 max)\n- Lorsque touché par des Capacités qui déclenchent un Sursaut de Tremblement, augmente le Seuil de Déséquilibre selon l’Intensité de l’effet\n- Fin du Tour : réduit de 1 le Compte\n- (Interagit de la même manière que du Tremblement normal aux effets qui augmentent ou réduisent l’Intensité/Compte de Tremblement)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TcorpSpecialInvestigator",
+      "name": "Badge d’Enquêteur Spécial T Corp.",
+      "desc": "- Lorsque cette unité subit des dégâts létaux, ses PV ne baissent pas en-dessous de 1, se soigne instantanément de 80% de ses PV Max et se remet de Déséquilibre. (Une fois par Affrontement)\n- Lorsque ce buff s’active, à partir du prochain tour, cette unité gagne 2 Bonus de Puissance Offensive à chaque Début de Tour pendant 5 tours.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationChain",
+      "name": "Tremblement - Chaîne",
+      "desc": "- Perd 1 de Puissance de Duel pour chaque 10 d’Intensité de Tremblement sur soi (3 max)\n- Lorsque touché par des Capacités qui déclenchent un Sursaut de Tremblement, augmente le Seuil de Déséquilibre selon l’Intensité de l’effet\n- Fin du Tour : réduit de 1 le Compte\n- (Interagit de la même manière que du Tremblement normal aux effets qui augmentent ou réduisent l’Intensité/Compte de Tremblement)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeRentalTwo",
+      "name": "Temps Emprunté T Corp.",
+      "desc": "Fin du Tour :\n- Gagne (Compte de Temps Emprunté - 1) Accélération, Bonus de Puissance de Duel et Vulnérabilité au prochain tour.\n- À 1 de Compte, gagne (2 * (Instance de Temps Emprunté - 1) Ralentissement au prochain tour à la place.\n- Gagne 1 d’Instance et perd 1 de Compte\n- Si cette unité a plus de Ralentissement que d’Accélération, l’effet Temps Emprunté expire et cette unité devient Déséquilibrée.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeAccumulation",
+      "name": "Temporisation",
+      "desc": "Tant que cet effet est actif, les dégâts infligés à cette unité sont stockés et non subis.\nFin du Tour : réduit la valeur de 1\nFin du Tour : s’il n’y a que 1 de valeur restante à cet effet, l’effet expire après avoir infligé (2 * dégâts stockés) dégâts de Paresse à cette unité\nLorsque cet effet est actif, sa valeur ne peut pas être gagnée ou rafraîchie.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ParryingResultDown",
+      "name": "Malus de Puissance de Duel",
+      "desc": "Dans un Duel, perd de la Puissance de Duel égal à la valeur",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ParryingResultUp",
+      "name": "Bonus de Puissance de Duel",
+      "desc": "Dans un Duel, gagne de la Puissance de Duel égal à la valeur",
+      "summary": "Dans un Duel, gagne de la Puissance de Duel égal à la valeur",
+      "undefined": "-"
+    },
+    {
+      "id": "LimitedTime",
+      "name": "Temps Volé",
+      "desc": "- Début du Tour : à 200 de valeur ou plus, gagne (valeur - 200)/50 Bonus de Niveau Offensif & Défensif.\n- Début du Tour : à moins de 200 de valeur, gagne (200 - valeur)/50 Malus de Niveau Offensif & Défensif.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "OwnTime",
+      "name": "Temps Partagé",
+      "desc": "- Début du Tour : à 40 de valeur ou plus, gagne (valeur - 40)/10 Bonus de Niveau Offensif & Défensif.\n- Début du Tour : à moins de 40 de valeur, gagne (40 - valeur)/10 Malus de Niveau Offensif & Défensif.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EquitableDistribution",
+      "name": "Dépense de Temps Commun",
+      "desc": "En dépensant du Temps Partagé, les Cerveaux dépensent une quantité égale de temps à travers le terrain.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfairDistribution",
+      "name": "Conflit Interne",
+      "desc": "En dépensant du Temps Partagé, les Cerveaux ne dépensent plus une quantité égale de temps à travers le terrain.\nDébut du Tour : toutes les parties perdent de la Protection égale au nombre de Parties avec des valeurs de Temps différentes restantes.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeAcceleration",
+      "name": "Accélération Temporelle",
+      "desc": "- Gagne 5 Accélération\n- Améliore les Capacités de cette unité.\n- Gagne 1 Vulnérabilité ; lorsqu’un Sursaut de Tremblement, un effet de Capacité ou un effet de Pièce augmente le Seuil de Déséquilibre de cette unité, il est augmenté de +50% supplémentaire.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Yurodivy_LowMorale",
+      "name": "Unité Brisée",
+      "desc": "- Morale Bas\nGagne 1 Vulnérabilité. Gagne 1 de Compte de Tremblement lorsque touché. (3 fois max)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Yurodivy_Panic",
+      "name": "Unité Brisée",
+      "desc": "- Panique\nGagne 2 Vulnérabilité. Gagne 2 de Compte de Tremblement lorsque touché. (3 fois max)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeKillerWatch",
+      "name": "Cible de Sauvetage Temporel",
+      "desc": "Ciblé par l’Éventreur Temporel tant que Accélération Temporelle est actif.",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

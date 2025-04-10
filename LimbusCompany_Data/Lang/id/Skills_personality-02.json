@@ -1,0 +1,1352 @@
+{
+  "dataList": [
+    {
+      "id": 1020501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "En Patrouille",
+          "desc": "[DefeatDuel] Gagne 2 Bonus de Niveau Défensif",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 2 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "En Patrouille",
+          "desc": "[DefeatDuel] Gagne 3 Bonus de Niveau Défensif",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "En Patrouille",
+          "desc": "[WhenUse] Gagne +2 d’Aggro sur cet Emplacement de Capacité au prochain tour\n[DefeatDuel] Gagne 3 Bonus de Niveau Défensif",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Protection de Client",
+          "desc": "[WhenUse] Applique 2 Bonus de Niveau Défensif à l’allié avec le plus bas pourcentage de PV (3 fois par tour)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Protection de Client",
+          "desc": "[WhenUse] Applique 3 Bonus de Niveau Défensif à l’allié avec le plus bas pourcentage de PV (3 fois par tour)\nÀ 5 Bonus de Niveau Défensif ou plus, +1 de Puissance de Duel",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Protection de Client",
+          "desc": "[WhenUse] Applique 4 Bonus de Niveau Défensif à l’allié avec le plus bas pourcentage de PV (3 fois par tour)\nÀ 5 Bonus de Niveau Défensif ou plus, +2 de Puissance de Duel",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Maintien de l’Ordre",
+          "desc": "À 5 Bonus de Niveau Défensif ou plus, +1 de Puissance de Pièce\n[WinDuel] Regagne 2 PV",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Applique 1 Accélération et 2 Bonus de Niveau Défensif à l’allié avec le plus bas pourcentage de PV au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Maintien de l’Ordre",
+          "desc": "À 5 Bonus de Niveau Défensif ou plus, +1 de Puissance de Pièce\n[WinDuel] Regagne 4 PV",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Applique 1 Accélération et 2 Bonus de Niveau Défensif à l’allié avec le plus bas pourcentage de PV au prochain tour"
+                },
+                {
+                  "desc": "Si l’allié est un Fixer de l’Association Zwei, applique 1 Accélération et 1 Bonus de Niveau Défensif supplémentaire"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Garde",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Garde",
+          "desc": "[WhenUse] Gagne +3 d’Aggro sur cet Emplacement de Capacité au prochain tour",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Camisole de Force Contractante",
+          "desc": "[WhenUse] Gagne +3 de Compte de Tremblement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +3 de Compte de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de Tremblement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Camisole de Force Contractante",
+          "desc": "[WhenUse] Gagne +3 de Compte de Tremblement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +3 de Compte de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Compte de Tremblement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Camisole de Force Contractante",
+          "desc": "[WhenUse] Gagne +3 de Compte de Tremblement\n[DefeatDuel] Gagne +3 de Compte de Tremblement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +3 de Compte de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Compte de Tremblement"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bourdonnement Métallique",
+          "desc": "[WhenUse] Gagne +4 de Compte de Tremblement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Malus de Niveau Offensif au prochain tour"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 Tremblement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Bourdonnement Métallique",
+          "desc": "[StartBattle] Dépense 5 de Compte de Tremblement et gagne 1 de Poids d’Atq pour cette capacité\n[WhenUse] Gagne +4 de Compte de Tremblement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne +1 de Compte de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Malus de Niveau Offensif au prochain tour"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Malus de Puissance de Pièce Positive au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bourdonnement Métallique",
+          "desc": "[StartBattle] Dépense 5 de Compte de Tremblement et gagne 1 de Poids d’Atq pour cette capacité\n[WhenUse] Gagne +4 de Compte de Tremblement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne +1 de Compte de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Malus de Niveau Offensif au prochain tour"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Malus de Puissance de Pièce Positive au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Violence Déchaînée",
+          "desc": "[StartBattle] Dépense 5 de Compte de Tremblement et gagne 1 de Poids d’Atq pour cette capacité (Max +2)\n[DefeatDuel] Perd 20 PSM\nInflige 3% de Dégâts supplémentaires par type d’effet de statut négatif sur la cible (15% Max)\n[EnemyKill] Gagne +2 de Compte de Tremblement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement,\nPuis inflige des Dégâts de Colère égaux à 20% du Seuil de Déséquilibré final augmenté par le Sursaut de Tremblement. (13 Max)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement,\nPuis inflige des Dégâts de Colère égaux à 20% du Seuil de Déséquilibré final augmenté par le Sursaut de Tremblement. (13 Max)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement,\nPuis inflige des Dégâts de Colère égaux à 20% du Seuil de Déséquilibré final augmenté par le Sursaut de Tremblement. (13 Max)\nRéduit le Compte de Tremblement de 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Violence Déchaînée",
+          "desc": "[StartBattle] Dépense 5 de Compte de Tremblement et gagne 1 de Poids d’Atq pour cette capacité (Max +2)\n[DefeatDuel] Perd 20 PSM\nInflige 6% de Dégâts supplémentaires par type d’effet de statut négatif sur la cible (30% Max)\n[EnemyKill] Gagne +2 de Compte de Tremblement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement,\nPuis inflige des Dégâts de Colère égaux à 30% du Seuil de Déséquilibré final augmenté par le Sursaut de Tremblement. (20 Max)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement,\nPuis inflige des Dégâts de Colère égaux à 30% du Seuil de Déséquilibré final augmenté par le Sursaut de Tremblement. (20 Max)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement,\nPuis inflige des Dégâts de Colère égaux à 30% du Seuil de Déséquilibré final augmenté par le Sursaut de Tremblement. (20 Max)\nRéduit le Compte de Tremblement de 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collecte de Rancune",
+          "desc": "[WhenUse] Gagne +3 de Compte de Tremblement",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Collecte de Rancune",
+          "desc": "[WhenUse] Gagne +6 de Compte de Tremblement",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Danse des Lames au Clair de Lune",
+          "desc": "[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [RedApricotBlossom]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Danse des Lames au Clair de Lune",
+          "desc": "[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [RedApricotBlossom]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Danse des Lames au Clair de Lune",
+          "desc": "<style=\"highlight\">À 5 [Breath] ou plus, +1 de Puissance de Pièce</style>\n[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [RedApricotBlossom]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Acupuncture",
+          "desc": "[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +1 de Compte de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 [RedApricotBlossom]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Acupuncture",
+          "desc": "[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +2 de Compte de [Breath]"
+                },
+                {
+                  "desc": "+30% de Dégâts en Coup Critique"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Ralentissement au prochain tour"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 [RedApricotBlossom]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Acupuncture",
+          "desc": "<style=\"highlight\">À 7 [Breath] ou plus, +1 de Puissance de Pièce\n</style>[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +2 de Compte de [Breath]"
+                },
+                {
+                  "desc": "+30% de Dégâts en Coup Critique"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Ralentissement au prochain tour"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 [RedApricotBlossom]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Éparpillement de Fleurs Rouges de Prunier",
+          "desc": "Inflige +3% de dégâts pour chaque [RedApricotBlossom] sur la cible\n[WinDuel] Consomme la moitié du Compte de [Breath] sur soi, puis gagne du [Breath] égal au Compte de [Breath] consommé. (10 Max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 5 [RedApricotBlossom]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 5 [RedApricotBlossom]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Éparpillement de Fleurs Rouges de Prunier",
+          "desc": "Inflige +3% de dégâts pour chaque [RedApricotBlossom] sur la cible\n<style=\"highlight\">+1 de Puissance de Pièce pour chaque 7 [Breath] sur soi (3 Max)</style>\n[WinDuel] Consomme la moitié du Compte de [Breath] sur soi, puis gagne du [Breath] égal au Compte de [Breath] consommé. (10 Max)\n<style=\"highlight\">Cette Capacité ne consomme pas de [RedApricotBlossom] en Coup Critique</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 5 [RedApricotBlossom]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Si la cible a 10 [RedApricotBlossom], inflige 1 [SlashTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 5 [RedApricotBlossom]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Si la cible a 10 [RedApricotBlossom], inflige 1 [SlashTakeDamageUp]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rediriger",
+          "desc": "[WhenUse] Pour chaque 4 [Breath] sur soi, gagne +1 de Puissance Finale (3 Max)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rediriger",
+          "desc": "[WhenUse] Pour chaque 4 [Breath] sur soi, gagne +1 de Puissance Finale (5 Max)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Confiscation",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Confiscation",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Confiscation",
+          "desc": "[WhenUse] Si la cible a 6 [Sinking] ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Accueil d’Intrus",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige +2 de Compte de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Accueil d’Intrus",
+          "desc": "[WhenUse] Si la cible a 5 [Sinking] ou plus, +1 de Puissance de Duel",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Accueil d’Intrus",
+          "desc": "[WhenUse] Si la cible a 5 [Sinking] ou plus, +1 de Puissance de Duel\n[WhenUse] Si la cible a 3 de Compte de [Sinking] ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Compte de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Arts de la Réception 4 : Sceau Cardiaque",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Compte de [Sinking]"
+                }
+              ]
+            },
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [EchoOfMansion] au prochain tour"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a [EchoOfMansion], inflige +3 de Compte de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Arts de la Réception 4 : Sceau Cardiaque",
+          "desc": "[WhenUse] Si la cible a 5 de Compte de [Sinking] ou plus, +2 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Compte de [Sinking]"
+                }
+              ]
+            },
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [EchoOfMansion] au prochain tour"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a [EchoOfMansion], inflige +3 de Compte de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Plans de Chasse",
+          "desc": "[WhenUse] Si la cible a 10 [Sinking] ou plus, +3 de Puissance de Pièce",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Plans de Chasse",
+          "desc": "[WhenUse] Si la cible a 10 [Sinking] ou plus, +7 de Puissance de Pièce",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Activation 40Y-3",
+          "desc": "[WhenUse] Consomme 5 de Compte de [Charge] pour gagner +1 de Puissance de Pièce",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +2 de Compte de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Activation 40Y-3",
+          "desc": "[WhenUse] Consomme 5 de Compte de [Charge] pour gagner +1 de Puissance de Pièce",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +<style=\"highlight\">3</style> de Compte de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Activation 40Y-3",
+          "desc": "[WhenUse] Consomme 5 de Compte de [Charge] pour gagner <style=\"highlight\">+2</style> de Puissance de Pièce",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +3 de Compte de [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contre-Courant de Charge",
+          "desc": "[WhenUse] À 5~9 de Compte de [Charge], consomme 2*(10 - Compte de [Charge] actuel)% PV pour augmenter le Compte de [Charge] à 10\n[WhenUse] Consomme 10 de Compte de [Charge] pour gagner +1 de Puissance de Pièce",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "À 3 de Réson. ou plus incluant cette Capacité, consomme tout le Compte de [Charge] sur soi et inflige +([Charge])% de dégâts supplémentaires pour chaque Compte de [Charge] consommé par cette Capacité (60% max)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Contre-Courant de Charge",
+          "desc": "[WhenUse] À 5~9 de Compte de [Charge], consomme 2*(10 - Compte de [Charge] actuel)% PV pour augmenter le Compte de [Charge] à 10\n[WhenUse] Consomme 10 de Compte de [Charge] pour gagner +1 de Puissance de Pièce",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "À 3 de Réson. ou plus incluant cette Capacité, consomme tout le Compte de [Charge] sur soi et inflige +<style=\"highlight\">([Charge] + 3)</style>% de dégâts supplémentaires pour chaque Compte de [Charge] consommé par cette Capacité (<style=\"highlight\">120%</style> max)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Contre-Courant de Charge",
+          "desc": "[WhenUse] À 5~9 de Compte de [Charge], consomme 2*(10 - Compte de [Charge] actuel)% PV pour augmenter le Compte de [Charge] à 10\n[WhenUse] Consomme 10 de Compte de [Charge] pour gagner <style=\"highlight\">+2</style> de Puissance de Pièce",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "À 3 de Réson. ou plus incluant cette Capacité, consomme tout le Compte de [Charge] sur soi et inflige +<style=\"highlight\">([Charge] + 4)</style>% de dégâts supplémentaires pour chaque Compte de [Charge] consommé par cette Capacité (<style=\"highlight\">180%</style> max)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Charge 40Y-3",
+          "desc": "À 2 [Charge] ou plus, +2 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +([Charge] + 4) de Compte de [Charge] (7 max)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +([Charge] + 4) de Compte de [Charge] (7 max)"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "À 3 [Charge] ou plus, inflige +4% de dégâts supplémentaires pour chaque [Charge] (20% max)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Charge 40Y-3",
+          "desc": "<style=\"highlight\">+1 de Puissance de Pièce pour chaque [Charge] (4 max)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +([Charge] + <style=\"highlight\">5</style>) de Compte de [Charge] (<style=\"highlight\">8</style> max)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +([Charge] + <style=\"highlight\">5</style>) de Compte de [Charge] (<style=\"highlight\">8</style> max)"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "À 3 [Charge] ou plus, inflige <style=\"highlight\">+8%</style> de dégâts supplémentaires pour chaque [Charge] (<style=\"highlight\">40</style>% max)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige 1 Vulnérabilité d’Envie au prochain tour\n- À 2 [Charge] ou plus, inflige 1 Vulnérabilité d’Envie supplémentaire</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge",
+          "desc": "[WhenUse] Gagne +2 de Compte de [Charge] (2 fois par tour)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Charge",
+          "desc": "[WhenUse] Gagne +<style=\"highlight\">4</style> de Compte de [Charge] (2 fois par tour)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Allumage",
+          "desc": "[WhenUse] À 10 [Combustion] ou plus, inflige +10% de dégâts supplémentaires\n[WhenUse] Gagne 7 [Combustion] et +1 de Compte de [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Allumage",
+          "desc": "[WhenUse] À 10 [Combustion] ou plus, inflige +10% de dégâts supplémentaires\n[WhenUse] Gagne 7 [Combustion] et +1 de Compte de [Combustion]\n[WhenUse] À 10 ([Combustion] sur soi + [Combustion] sur la cible) ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] À 10 [Combustion] ou plus, inflige 1 [Combustion] supplémentaire</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Allumage",
+          "desc": "[WhenUse] À 10 [Combustion] ou plus, inflige +10% de dégâts supplémentaires\n[WhenUse] Gagne 7 [Combustion] et +1 de Compte de [Combustion]\n[WhenUse] +1 de Puissance de Pièce pour chaque 10 ([Combustion] sur soi + [Combustion] sur la cible) (2 max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] À 10 [Combustion] ou plus, inflige <style=\"highlight\">3</style> [Combustion] supplémentaires"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "E.G.O. - Activation E.F.A.",
+          "desc": "[WhenUse] À 10 [Combustion] ou plus, inflige +10% de dégâts supplémentaires\n[WhenUse] Gagne +4 de Compte de [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "E.G.O. - Activation E.F.A.",
+          "desc": "[WhenUse] Inflige +10% de dégâts supplémentaires pour chaque 10 [Combustion] sur soi (20% max)\n[WhenUse] Gagne +4 de Compte de [Combustion]\n[WhenUse] À 4 de ([Combustion] sur soi + [Combustion] sur la cible) ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "E.G.O. - Activation E.F.A.",
+          "desc": "[WhenUse] Inflige +10% de dégâts supplémentaires pour chaque 10 [Combustion] sur soi (20% max)\n[WhenUse] Gagne +4 de Compte de [Combustion]\n[WhenUse] +1 de Puissance de Pièce pour chaque 4 de ([Combustion] sur soi + [Combustion] sur la cible) (2 max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 15 [Combustion] ou plus, inflige +2 de Compte de [Combustion] à la cible"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Attiré par les Flammes",
+          "desc": "[StartBattle] Gagne 7 [Combustion] et +1 de Compte de [Combustion]\n[BeforeUse] À 30 [Combustion] ou plus, active “Syntonie Max E.F.A 【Érosion Dégradée】” à la place\n[WhenUse] Inflige +7.5% de dégâts supplémentaires pour chaque 5 [Combustion] sur soi (30% max)\n[WhenUse] À 10 ([Combustion] sur soi + [Combustion] sur la cible) ou plus, +1 de Puissance de Base\n[WhenUse] S’il manque à cette unité 30% de PV ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Combustion]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Attiré par les Flammes",
+          "desc": "[StartBattle] Gagne 7 [Combustion] et +1 de Compte de [Combustion]\n[BeforeUse] À 30 [Combustion] ou plus, active “Syntonie Max E.F.A 【Érosion Dégradée】” à la place\n[WhenUse] Inflige +12.5% de dégâts supplémentaires pour chaque 5 [Combustion] sur soi (50% max)\n[WhenUse] +1 de Puissance de Base pour chaque 10 ([Combustion] sur soi + [Combustion] sur la cible) (2 max)\n[WhenUse] S’il manque à cette unité 30% de PV ou plus, +1 de Puissance de Pièce (2 max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Combustion]"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Résonnance en augmentant la Syntonisation E.F.A.",
+          "desc": "[WhenUse] Perd 5 [Combustion] (une fois par tour)\n[OnSucceedEvade] Perd 5 [Combustion] (une fois par tour)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Résonnance en augmentant la Syntonisation E.F.A.",
+          "desc": "[WhenUse] À 10 [Combustion] ou plus, +3 de Puissance de Pièce\n[WhenUse] Perd 5 [Combustion] (une fois par tour)\n[OnSucceedEvade] Perd 5 [Combustion] (une fois par tour)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Syntonie Max E.F.A 【Érosion Dégradée】",
+          "desc": "Après avoir utilisé cette Capacité, meurt.\n- Si les PV tombent à 1 en utilisant cette Capacité, maintient les PV à 1 pour la durée de cette Capacité.\n[WhenUse] Inflige +7.5% de dégâts supplémentaires pour chaque 5 [Combustion] sur soi (30% max)\n[WhenUse] À 10 ([Combustion] sur soi + [Combustion] sur la cible) ou plus, +1 de Puissance de Base\n[WhenUse] +1 de Puissance de Pièce pour chaque 30% de PV manquant sur soi (2 max)\n[BeforeAttack] +1 de Poids d’Atq pour chaque 20% de PV manquant sur soi (2 max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +10% de dégâts supplémentaires pour chaque 20% de PV manquant sur soi (30% max)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Syntonie Max E.F.A 【Érosion Dégradée】",
+          "desc": "Après avoir utilisé cette Capacité, meurt.\n- Si les PV tombent à 1 en utilisant cette Capacité, maintient les PV à 1 pour la durée de cette Capacité.\n[WhenUse] Inflige +12.5% de dégâts supplémentaires pour chaque 5 [Combustion] sur soi (50% max)\n[WhenUse] +1 de Puissance de Base pour chaque 10 ([Combustion] sur soi + [Combustion] sur la cible) (2 max)\n[WhenUse] +1 de Puissance de Pièce pour chaque 30% de PV manquant sur soi (3 max)\n[BeforeAttack] +1 de Poids d’Atq pour chaque 20% de PV manquant sur soi (4 max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +10% de dégâts supplémentaires pour chaque 20% de PV manquant sur soi (30% max)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

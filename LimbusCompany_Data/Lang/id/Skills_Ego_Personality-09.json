@@ -1,0 +1,557 @@
+{
+  "dataList": [
+    {
+      "id": 2090411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Corrosion Effervescente",
+          "abName": "Perle Flânante",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Compte de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Ralentissement au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Corrosion Effervescente",
+          "abName": "Perle Flânante",
+          "desc": "[BeforeAttack] Si la cible a 50%+ PV, +1 Poids d’Attaque",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Tremblement et +5 de Compte de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Ralentissement au prochain tour"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Déclenche un Sursaut de Tremblement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Corrosion Effervescente",
+          "abName": "Perle Flânante",
+          "desc": "[BeforeAttack] Si la cible a 50%+ PV, +1 Poids d’Attaque ;\nSi la cible principale a 75%+ PV, +1 Poids d’Attaque supplémentaire",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Tremblement et +7 de Compte de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Ralentissement au prochain tour"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Corrosion Effervescente",
+          "abName": "Perle Flânante",
+          "desc": "[CantIdentify]\nCible aléatoirement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Se soigne de 30% des dégâts infligés"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Corrosion Effervescente",
+          "abName": "Perle Flânante",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] Si la cible a 50%+ PV, +1 Poids d’Attaque",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Se soigne de 30% des dégâts infligés"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Malus de Niveau Défensif"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Corrosion Effervescente",
+          "abName": "Perle Flânante",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] Si la cible a 50%+ PV, +1 Poids d’Attaque ;\nSi la cible principale a 75%+ PV, +1 Poids d’Attaque supplémentaire",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Se soigne de 30% des dégâts infligés"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Malus de Niveau Défensif"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Poursuite",
+          "abName": "Scribe de l’Exécuteur Divin",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Vulnérabilité de Paresse au prochain tour"
+                },
+                {
+                  "desc": "[EndSkill] Soigne 2 autres alliés avec le moins de pourcentage de PV de 15% des PV Max. de cette unité"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Poursuite",
+          "abName": "Scribe de l’Exécuteur Divin",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Vulnérabilité de Paresse au prochain tour"
+                },
+                {
+                  "desc": "[EndSkill] Soigne 2 autres alliés avec le moins de pourcentage de PV de 25% des PV Max. de cette unité"
+                },
+                {
+                  "desc": "[EndSkillHead] Si la cible est Déséquilibrée ou vaincue, applique 10% de PV Max. de cette unité en Bouclier que cette unité a soigné"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Poursuite",
+          "abName": "Scribe de l’Exécuteur Divin",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Vulnérabilité de Paresse au prochain tour"
+                },
+                {
+                  "desc": "[EndSkill] Soigne 2 autres alliés avec le moins de pourcentage de PV de 30% des PV Max. de cette unité"
+                },
+                {
+                  "desc": "[EndSkillHead] Si la cible est Déséquilibrée ou vaincue, applique 15% de PV Max. de cette unité en Bouclier que cette unité a soigné"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Poursuite",
+          "abName": "Scribe de l’Exécuteur Divin",
+          "desc": "[CantIdentify]\nCible aléatoirement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 15 dégâts de PSM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Poursuite",
+          "abName": "Scribe de l’Exécuteur Divin",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] À 50% de PV ou moins, +1 de Poids d’Attaque",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 20 dégâts de PSM"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Si la cible est Déséquilibrée ou vaincue, se soigne de 5 PSM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Poursuite",
+          "abName": "Scribe de l’Exécuteur Divin",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] À 50% de PV ou moins, +2 de Poids d’Attaque",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 20 dégâts de PSM"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible est Déséquilibrée ou vaincue, se soigne de 7 PSM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Désir Sanguin",
+          "abName": "Les Chaussures Rouges",
+          "desc": "+1 de Puissance de Pièce pour chaque 2 [Laceration] sur la cible (6 max)\n[StartBattle] La cible principale de cette Capacité ne perd pas de Compte de [Laceration] pendant ce tour.\n[EndSkill] Pendant 3 tours, perd 10 PSM à la Fin du Tour.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige autant de dégâts d’Affinité de Luxure que d’Intensité de [Laceration] sur la cible.\n- À 4 de Réson. de Luxure ou plus, inflige des dégâts de Luxure égaux à (Intensité de [Laceration] sur la cible * 1.2).\n(Un maximum de 99 d’Intensité de [Laceration] sera utilisé pour le calcul de cette Capacité.)",
+                  "summary": "[OnSucceedAttack] Inflige des dégâts d’Affinité de Luxure basés sur le [Laceration] sur la cible"
+                },
+                {
+                  "desc": "[EnemyKill] Si les effets de cette Capacité ou de ses Pièces inflige des dégâts qui excèdent les PV restants de la cible (en Affrontement Concentré, du Noyau), répartit les dégâts en excès en dégâts fixes entre tous les ennemis.",
+                  "summary": "[EnemyKill] Répartit les dégâts en excès entre tous les ennemis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Désir Sanguin",
+          "abName": "Les Chaussures Rouges",
+          "desc": "+1 de Puissance de Pièce pour chaque  2 [Laceration] sur la cible (<style=\"highlight\">9</style> max)\n[StartBattle] La cible principale de cette Capacité ne perd pas de Compte de [Laceration] pendant ce tour.\n[EndSkill] Pendant 3 tours, perd 10 PSM à la Fin du Tour.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige des dégâts de Luxure égaux à <style=\"highlight\">(Intensité de [Laceration] sur la cible * 1.2)</style>.\n- À 4 de Réson. ou plus de Luxure, inflige des dégâts de Luxure égaux à (Intensité de [Laceration] sur la cible * <style=\"highlight\">1.5</style>).\n<style=\"highlight\">- À 4 de Réson.-A ou plus de Luxure, inflige des dégâts d’Affinité de Luxure égaux à (Intensité de [Laceration] sur la cible * 1.8).</style>\n(Un maximum de 99 d’Intensité de [Laceration] sera utilisé pour le calcul de cette Capacité.)",
+                  "summary": "[OnSucceedAttack] Inflige des dégâts d’Affinité de Luxure basés sur le [Laceration] sur la cible"
+                },
+                {
+                  "desc": "[EnemyKill] Si les effets de cette Capacité ou de ses Pièces inflige des dégâts qui excèdent les PV restants de la cible (en Affrontement Concentré, du Noyau), répartit les dégâts en excès en dégâts fixes entre tous les ennemis.",
+                  "summary": "[EnemyKill] Répartit les dégâts en excès entre tous les ennemis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Désir Sanguin",
+          "abName": "Les Chaussures Rouges",
+          "desc": "+1 de Puissance de Pièce pour chaque  2 [Laceration] sur la cible (<style=\"highlight\">13</style> max)\n[StartBattle] La cible principale de cette Capacité ne perd pas de Compte de [Laceration] pendant ce tour.\n[EndSkill] Pendant 3 tours, perd 10 PSM à la Fin du Tour.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige des dégâts d’Affinité de Luxure égaux à (Intensité de [Laceration] sur la cible * <style=\"highlight\">1.5</style>)\n- À 4 de Réson. ou plus de Luxure, inflige des dégâts de Luxure égaux à (Intensité de [Laceration] sur la cible * <style=\"highlight\">1.8</style>).\n- À 4 de Réson.-A ou plus de Luxure, inflige des dégâts d’Affinité de Luxure égaux à (Intensité de [Laceration] sur la cible * <style=\"highlight\">2</style>).\n(Un maximum de 99 d’Intensité de [Laceration] sera utilisé pour le calcul de cette Capacité.)",
+                  "summary": "[OnSucceedAttack] Inflige des dégâts d’Affinité de Luxure basés sur le [Laceration] sur la cible"
+                },
+                {
+                  "desc": "[EnemyKill] Si les effets de cette Capacité ou de ses Pièces inflige des dégâts qui excèdent les PV restants de la cible (en Affrontement Concentré, du Noyau), répartit les dégâts en excès en dégâts fixes entre tous les ennemis.",
+                  "summary": "[EnemyKill] Répartit les dégâts en excès entre tous les ennemis."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Désir Sanguin",
+          "abName": "Les Chaussures Rouges",
+          "desc": "[CantIdentify]\nCible Aléatoirement\n[BeforeAttack] Gagne (# de plus haute Réson. - 2) de Poids d’Atq (2 max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige (2 + (Réson. de Luxure)) [Laceration]\n(Réson. de Luxure Maximum pris en compte : 4)",
+                  "summary": "[OnSucceedAttack] Inflige (2 + (Réson. de Luxure)) [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Désir Sanguin",
+          "abName": "Les Chaussures Rouges",
+          "desc": "[CantIdentify]\nCible Aléatoirement\n[BeforeAttack] Gagne (# de plus haute Réson. - 2) de Poids d’Atq (2 max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige (<style=\"highlight\">3</style> + (Réson. de Luxure)) [Laceration]\n(Réson. de Luxure Maximum pris en compte : <style=\"highlight\">5</style>)",
+                  "summary": "[OnSucceedAttack] Inflige (3 + (Réson. de Luxure)) [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Désir Sanguin",
+          "abName": "Les Chaussures Rouges",
+          "desc": "[CantIdentify]\nCible Aléatoirement\n[BeforeAttack] Gagne (# de plus haute Réson. - 2) de Poids d’Atq (2 max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige (<style=\"highlight\">4</style> + (Réson. de Luxure)) [Laceration]\n(Réson. de Luxure Maximum pris en compte : <style=\"highlight\">6</style>)",
+                  "summary": "[OnSucceedAttack] Inflige (4 + (Réson. de Luxure)) [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">3</style> de Compte de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clou Maudit",
+          "abName": "Blessant Ours en Peluche",
+          "desc": "[EndSkill] Soigne soi-même et 2 autre alliés avec le moins de pourcentage de PV de 12.5% des PV max de cette unité",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Clou Maudit",
+          "abName": "Blessant Ours en Peluche",
+          "desc": "[EndSkill] Soigne soi-même et 2 autre alliés avec le moins de pourcentage de PV de 12.5% des PV max de cette unité\n<style=\"highlight\">- Chaque unité recevant du soin regagne +2.5% de PV supplémentaire pour chaque 2 effets négatifs sur elle (7.5% max)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Clou Maudit",
+          "abName": "Blessant Ours en Peluche",
+          "desc": "[EndSkill] Soigne soi-même et 2 autre alliés avec le moins de pourcentage de PV de <style=\"highlight\">15%</style> des PV max de cette unité\n- Chaque unité recevant du soin regagne +2.5% de PV supplémentaire pour <style=\"highlight\">chaque</style> effet négatif sur elle (<style=\"highlight\">10%</style> max)\n<style=\"highlight\">- À 4 de Réson. ou plus d’Envie incluant cette Capacité, soigne 1 allié supplémentaire</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige <style=\"highlight\">3</style> [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clou Maudit",
+          "abName": "Blessant Ours en Peluche",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[EndSkill] Soigne 3 autre alliés avec le moins de pourcentage de PV de 15% des PV max de cette unité",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Clou Maudit",
+          "abName": "Blessant Ours en Peluche",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[EndSkill] Soigne 3 autre alliés avec le moins de pourcentage de PV de 15% des PV max de cette unité\n<style=\"highlight\">- Chaque unité recevant du soin gagne 1 [AttackUp] jusqu’au prochain tour pour chaque 2 effets négatifs sur elle (2 max)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Clou Maudit",
+          "abName": "Blessant Ours en Peluche",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[EndSkill] Soigne 3 autre alliés avec le moins de pourcentage de PV de <style=\"highlight\">20%</style> des PV max de cette unité\n- Chaque unité recevant du soin gagne 1 [AttackUp] jusqu’au prochain tour pour <style=\"highlight\">chaque</style> effets négatifs sur elle (<style=\"highlight\">3</style> max)\n<style=\"highlight\">- À 4 de Réson. ou plus d’Envie incluant cette Capacité, soigne 1 allié supplémentaire</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">4</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige <style=\"highlight\">3</style> [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

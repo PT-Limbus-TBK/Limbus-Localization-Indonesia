@@ -1,0 +1,1674 @@
+{
+  "dataList": [
+    {
+      "id": 1070701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Suivre la Proie",
+          "desc": "[WhenUse] Gagne +2 de Compte de Calme\n[WhenUse] Gagne +2 d’Aggro sur cet Emplacement de Capacité au prochain tour",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Saignement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Suivre la Proie",
+          "desc": "[WhenUse] Gagne +3 de Compte de Calme\n[WhenUse] Gagne +3 d’Aggro sur cet Emplacement de Capacité au prochain tour",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Saignement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Suivre la Proie",
+          "desc": "[WhenUse] Gagne +4 de Compte de Calme\n[WhenUse] Gagne +5 d’Aggro sur cet Emplacement de Capacité au prochain tour",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Saignement"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Harpon d’Accroche",
+          "desc": "[WhenUse] Gagne +2 d’Aggro sur cet Emplacement de Capacité au prochain tour",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige du Compte de Saignement égal à 1/4 de l’Intensité de Saignement de la cible (10 Max)"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Harpon d’Accroche",
+          "desc": "[WhenUse] Gagne +3 d’Aggro sur cet Emplacement de Capacité au prochain tour\n[WhenUse] Gagne 1 Calme pour chaque 3 de Saignement sur la cible (10 Max)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige du Compte de Saignement égal à 1/4 de l’Intensité de Saignement de la cible (10 Max)"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Harpon d’Accroche",
+          "desc": "[WhenUse] Gagne +5 d’Aggro sur cet Emplacement de Capacité au prochain tour\n[WhenUse] Gagne 1 Calme pour chaque 3 de Saignement sur la cible (10 Max)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige du Compte de Saignement égal à 1/3 de l’Intensité de Saignement de la cible (10 Max)"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Rompre le Nœud",
+          "desc": "À 3 de Réson. d’Envie ou plus, +1 de Puissance de Duel\nÀ 4 de Réson. d’Envie ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] À 50% de PV ou moins, inflige 1 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] À 50% de PV ou moins, inflige 1 Saignement"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] +30% de Dégâts en Coup Critique"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rompre le Nœud",
+          "desc": "À 3 de Réson. d’Envie ou plus, +1 de Puissance de Duel\nÀ 4 de Réson. d’Envie ou plus, +1 de Puissance de Pièce\nÀ 6 de Réson.-A ou plus d’Envie, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] À 75% de PV ou moins, inflige 1 Saignement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] À 50% de PV ou moins, inflige 1 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] À 75% de PV ou moins, inflige 1 Saignement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] À 50% de PV ou moins, inflige 1 Saignement"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] +50% de Dégâts en Coup Critique"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Remboursement",
+          "desc": "[WhenUse] Gagne +2 d’Aggro sur cet Emplacement de Capacité au prochain tour\n[StartBattle] Gagne du [DefenseUp] pour chaque [Breath] sur soi (10 max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Remboursement",
+          "desc": "[WhenUse] Gagne +5 d’Aggro sur cet Emplacement de Capacité au prochain tour\n[StartBattle] Gagne du [DefenseUp] pour chaque [Breath] sur soi (10 max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Exécution Avisée",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Exécution Avisée",
+          "desc": "Si la cible a 3 [Vibration] ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Exécution Avisée",
+          "desc": "+1 de Puissance de Pièce pour chaque 3 [Vibration] sur la cible (2 Max)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dernier Avertissement",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Dernier Avertissement",
+          "desc": "Si la cible a 6 [Vibration] ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dernier Avertissement",
+          "desc": "+1 de Puissance de Pièce pour chaque 6 [Vibration] sur la cible (2 Max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Condamnation à l’Exécution",
+          "desc": "Si la cible a 6 [Vibration] ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la somme de l’Intensité et du Compte de [Vibration] de la cible est supérieure ou égale à 20, déclenche une [Switch_Vibration] sur la cible, convertissant le [Vibration] en [VibrationCollapse]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Condamnation à l’Exécution",
+          "desc": "+1 de Puissance de Pièce pour chaque 6 [Vibration] sur la cible (Max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]  Si la somme de l’Intensité et du Compte de [Vibration] de la cible est supérieure ou égale à 20, déclenche une [Switch_Vibration] sur la cible, convertissant le [Vibration] en [VibrationCollapse]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Interdiction d’Entraver",
+          "desc": "Lorsque attaqué alors que cette unité a Bouclier, inflige +1 de Compte de [Vibration] à l’attaquant (cet effet de Capacité ne se cumule pas avec des utilisations multiples)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Interdiction d’Entraver",
+          "desc": "Lorsque attaqué alors que cette unité a Bouclier, inflige +1 de Compte de [Vibration] à l’attaquant (cet effet de Capacité ne se cumule pas avec des utilisations multiples)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Activation 40S-2",
+          "desc": "[WhenUse] Consomme 5 de Compte de [Charge] pour gagner +1 de Puissance de Pièce",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +2 de Compte de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Activation 40S-2",
+          "desc": "[WhenUse] Consomme 5 de Compte de [Charge] pour gagner +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gagne +2 de Compte de [Charge]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +2 de Compte de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Activation 40S-2",
+          "desc": "[WhenUse] Consomme 5 de Compte de [Charge] pour gagner +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +2 de Compte de [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +2 de Compte de [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Marque Photoélectrique",
+          "desc": "[WhenUse] À 5~9 de Compte de [Charge], consomme 2*(10 - Compte de [Charge] actuel)% PV pour augmenter le Compte de [Charge] à 10\n[WhenUse] Consomme 10 de Compte de [Charge] pour gagner +1 de Puissance de Pièce",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige de la [PhotoElectricity] égale à la [Charge] (2 max)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Marque Photoélectrique",
+          "desc": "[WhenUse] À 5~9 de Compte de [Charge], consomme 2*(10 - Compte de [Charge] actuel)% PV pour augmenter le Compte de [Charge] à 10\n[WhenUse] Consomme 10 de Compte de [Charge] pour gagner +1 de Puissance de Pièce",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Si cette unité a consommé du Compte de [Charge], inflige 2 [DefenseDown]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige 1 [TakeHpHealReduce]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige de la [PhotoElectricity] égale à la [Charge] (<style=\"highlight\">3</style> max)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Marque Photoélectrique",
+          "desc": "[WhenUse] À 5~9 de Compte de [Charge], consomme 2*(10 - Compte de [Charge] actuel)% PV pour augmenter le Compte de [Charge] à 10\n[WhenUse] Consomme 10 de Compte de [Charge] pour gagner <style=\"highlight\">+2</style> de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Si cette unité a consommé du Compte de [Charge], inflige 2 [DefenseDown]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si cette unité a consommé du Compte de [Charge], inflige 2 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> [TakeHpHealReduce]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige de la [PhotoElectricity] égale à la [Charge] (3 max)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Harpon Photoélectrique",
+          "desc": "À 2 [Charge] ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +5 de Compte de [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +([Charge] * 3) de Compte de [Charge] (9 max)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige de la [PhotoElectricity] égale à la [Charge] (3 max)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Harpon Photoélectrique",
+          "desc": "<style=\"highlight\">+1 de Puissance de Pièce pour chaque 2 [Charge] sur soi (2 max)</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +<style=\"highlight\">7</style> de Compte de [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +([Charge] * 3) de Compte de [Charge] (9 max)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige de la [PhotoElectricity] égale à la [Charge] (3 max)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige 1 [HitTakeDamageUp] pour chaque 2 [Charge] (2 max)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge",
+          "desc": "[WhenUse] Gagne +3 de Compte de [Charge] (une fois par tour)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Charge",
+          "desc": "[WhenUse] Gagne +3 de Compte de [Charge] (<style=\"highlight\">2 fois</style> par tour)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Décapitation",
+          "desc": "[WhenUse] Si la cible a 8 [Sinking] ou plus, +1 de Puissance de Duel",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Décapitation",
+          "desc": "[WhenUse] Si la cible a 6 [Sinking] ou plus, +1 de Puissance de Duel\n<style=\"highlight\">[WhenUse] Si la cible a 3 de Compte de [Sinking] ou plus, +1 de Puissance de Pièce</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Décapitation",
+          "desc": "[WhenUse] Si la cible a 6 [Sinking] ou plus, +1 de Puissance de Duel\n[WhenUse] <style=\"highlight\">+1 de Puissance de Pièce pour chaque 3 de Compte de [Sinking] sur la cible (2 max)</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Procession Mémorielle",
+          "desc": "[WhenUse] Si la cible a 5 [Sinking] ou plus, +1 de Puissance de Pièce\n[EndSkill] Si cette unité a [NightPathfinding], perd 10 PSM",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [WanderingFootsteps] au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Procession Mémorielle",
+          "desc": "[WhenUse] Si la cible a 5 [Sinking] ou plus, +1 de Puissance de Pièce\n<style=\"highlight\">[WhenUse] À 4 [Coffin] ou plus, +1 de Poids d’Atq\n[WhenUse] Si cette unité a [NightPathfinding], +1 de Poids d’Atq</style>\n[EndSkill] Si cette unité a [NightPathfinding], perd 10 PSM",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [WanderingFootsteps] au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Procession Mémorielle",
+          "desc": "[WhenUse] <style=\"highlight\">+1 de Puissance de Pièce pour chaque 5 [Sinking] sur la cible (2 max)</style>\n[WhenUse] <style=\"highlight\">+1 de Poids d’Atq pour chaque 4 [Coffin] sur soi (2 max)</style>\n[WhenUse] Si cette unité a [NightPathfinding], +1 de Poids d’Atq\n[EndSkill] Si cette unité a [NightPathfinding], perd 10 PSM",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [WanderingFootsteps] au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Requiem",
+          "desc": "[WinDuel] Regagne 10 PSM\n[BeforeUse] Si cette unité a [NightPathfinding], active “Lamente-toi, Pleure et Désespère” à la place\n[WhenUse] +1 de Puissance de Pièce pour chaque 6 [Sinking] sur la cible (2 max)\n[WhenUse] Inflige +7% de dégâts supplémentaires pour chaque [Coffin] sur soi (70% max)\n[WhenUse] Gagne 1 [Coffin]\n[EndSkill] Si l’attaque de cette Capacité tue la cible, gagne 2 [Coffin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Compte de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a [WanderingFootsteps], inflige +2 de Compte de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]"
+                },
+                {
+                  "desc": "[EnemyKill] Inflige ([Sinking] de la cible tuée/3) [Sinking] à 2 ennemis aléatoires (3 max)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Requiem",
+          "desc": "[WinDuel] Regagne 10 PSM\n[BeforeUse] Si cette unité a [NightPathfinding], active “Lamente-toi, Pleure et Désespère” à la place\n[WhenUse] +1 de Puissance de Pièce pour <style=\"highlight\">chaque 3</style> de [Sinking] sur la cible (<style=\"highlight\">4</style> max)\n[WhenUse] Inflige +12% de dégâts supplémentaires pour chaque [Coffin] sur soi (120% max)\n[WhenUse] Gagne 1 [Coffin]\n[EndSkill] Si l’attaque de cette Capacité tue la cible, gagne 2 [Coffin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">+4</style> de Compte de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a [WanderingFootsteps], inflige +2 de Compte de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [Sinking]"
+                },
+                {
+                  "desc": "[EnemyKill] Inflige ([Sinking] de la cible tuée/<style=\"highlight\">2</style>) [Sinking] à 2 ennemis aléatoires (<style=\"highlight\">5</style> max)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ô Dullahan… !",
+          "desc": "[DuelCounter]\n[StartBattle] Si cette unité n’a pas [NightPathfinding], gagne 1 [NightPathfinding] au prochain tour (une fois par tour)\n[EndBattle] Si cette unité a [NightPathfinding], perd [NightPathfinding]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ô Dullahan… !",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Si cette unité a [NightPathfinding] et a 15 PSM ou plus, utilise “Lamente-toi, Pleure et Désespère” en tant que Riposte (une fois par tour)</style>\n[StartBattle] Si cette unité n’a pas [NightPathfinding], gagne 1 [NightPathfinding] au prochain tour (une fois par tour)\n<style=\"highlight\">[WhenUse] Si la cible a 6 [Sinking] ou plus, +1 de Puissance de Pièce</style>\n[EndBattle] Si cette unité a [NightPathfinding], perd [NightPathfinding]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ô Dullahan… !",
+          "desc": "[DuelCounter]\n[BeforeUse] Si cette unité a [NightPathfinding] et a 15 PSM ou plus, utilise “Lamente-toi, Pleure et Désespère” en tant que Riposte (une fois par tour)\n[StartBattle] Si cette unité n’a pas [NightPathfinding], gagne 1 [NightPathfinding] au prochain tour (une fois par tour)\n[WhenUse] <style=\"highlight\">+1 de Puissance de Pièce pour chaque 3 [Sinking] sur la cible (2 max)</style>\n<style=\"highlight\">[WinDuel] Gagne du [AttackUp] égal à (# de Clashs/3) au prochain tour (3 max, une fois par tour)</style>\n[EndBattle] Si cette unité a [NightPathfinding], perd [NightPathfinding]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking] <style=\"highlight\">et +1 de Compte de [Sinking]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071005,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Lamente-toi, Pleure et Désespère",
+          "desc": "[WhenUse] Perd 15 PSM\n[WhenUse] +1 de Puissance de Base pour chaque 5 [Sinking] sur la cible (2 max)\n[WhenUse] Plus la valeur des PSM de cette unité est éloignée de 45, plus elle inflige des dégâts (+0.3% de dégâts supplémentaires pour chaque PSM manquant, 21% max)\n[WhenUse] Inflige +7% de dégâts supplémentaires pour chaque Cercueil sur soi (70% max)\n[WhenUse] Inflige +10% de dégâts supplémentaires pour chaque [NightPathfinding] sur soi (30% max)\n[WhenUse] Gagne 1 [Coffin]\n[EndSkill] Si l’attaque de cette Capacité tue la cible, gagne 2 [Coffin]\n[EndSkill] À moins de 0 PSM, regagne 10 PSM. Lorsque à moins de 0 PSM, plus la valeur de PSM de cette unité est éloignée de 0 et plus elle regagne de PSM  (regagne 1 PSM supplémentaire pour chaque PSM manquant ; 25 max)\n[EndBattle] Perd [NightPathfinding]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Sinking] et +1 de Compte de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Augmente de 20% des dégâts infligés le Seuil de Déséquilibre de la cible"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige des dégâts d’Affinité de Peine égaux à la [Sinking] de la cible (15 max)"
+                },
+                {
+                  "desc": "[EnemyKill] Inflige ([Sinking] de la cible tuée/3) [Sinking] à 2 ennemis aléatoires (4 max)"
+                },
+                {
+                  "desc": "[EnemyKill] Regagne 15 PSM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lamente-toi, Pleure et Désespère",
+          "desc": "[WhenUse] Perd 15 PSM\n[WhenUse] +1 de Puissance de Base pour chaque 5 [Sinking] sur la cible (<style=\"highlight\">4</style> max)\n[WhenUse] Plus la valeur des PSM de cette unité est éloignée de 45, plus elle inflige des dégâts (+0.3% de dégâts supplémentaires pour chaque PSM manquant, 21% max)\n[WhenUse] Inflige +<style=\"highlight\">10</style>% de dégâts supplémentaires pour chaque Cercueil sur soi (<style=\"highlight\">100</style>% max)\n[WhenUse] Inflige +<style=\"highlight\">20</style>% de dégâts supplémentaires pour chaque [NightPathfinding] sur soi (<style=\"highlight\">60</style>% max)\n[WhenUse] Gagne <style=\"highlight\">2</style> de [Coffin]\n[EndSkill] Si l’attaque de cette Capacité tue la cible, gagne <style=\"highlight\">3</style> de [Coffin]\n[EndSkill] À moins de 0 PSM, regagne 10 PSM. Lorsque à moins de 0 PSM, plus la valeur de PSM de cette unité est éloignée de 0 et plus elle regagne de PSM  (regagne <style=\"highlight\">2</style> PSM supplémentaires pour chaque PSM manquant ; <style=\"highlight\">50</style> max)\n[EndBattle] Perd [NightPathfinding]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">5</style> [Sinking] et +2 de Compte de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Augmente de <style=\"highlight\">30</style>% des dégâts infligés le Seuil de Déséquilibre de la cible"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige des dégâts d’Affinité de Peine égaux à la [Sinking] de la cible (<style=\"highlight\">30</style> max)"
+                },
+                {
+                  "desc": "[EnemyKill] Inflige ([Sinking] de la cible tuée/<style=\"highlight\">2</style>) [Sinking] à 2 ennemis aléatoires (<style=\"highlight\">8</style> max)"
+                },
+                {
+                  "desc": "[EnemyKill] Regagne 15 PSM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071006,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Lamente-toi, Pleure et Désespère",
+          "desc": "[WhenUse] Perd 15 PSM\n[WhenUse] +1 de Puissance de Base pour chaque 5 [Sinking] sur la cible (2 max)\n[WhenUse] Plus la valeur des PSM de cette unité est éloignée de 45, plus elle inflige des dégâts (+0.3% de dégâts supplémentaires pour chaque PSM manquant, 21% max)\n[WhenUse] Inflige +7% de dégâts supplémentaires pour chaque Cercueil sur soi (70% max)\n[WhenUse] Inflige +10% de dégâts supplémentaires pour chaque [NightPathfinding] sur soi (30% max)\n[WhenUse] Gagne 1 [Coffin]\n[EndSkill] Si l’attaque de cette Capacité tue la cible, gagne 2 [Coffin]\n[EndSkill] À moins de 0 PSM, regagne 10 PSM. Lorsque à moins de 0 PSM, plus la valeur de PSM de cette unité est éloignée de 0 et plus elle regagne de PSM  (regagne 1 PSM supplémentaire pour chaque PSM manquant ; 25 max)\n[EndBattle] Perd [NightPathfinding]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Sinking] et +1 de Compte de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Augmente de 20% des dégâts infligés le Seuil de Déséquilibre de la cible"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige des dégâts d’Affinité de Peine égaux à la [Sinking] de la cible (15 max)"
+                },
+                {
+                  "desc": "[EnemyKill] Inflige ([Sinking] de la cible tuée/3) [Sinking] à 2 ennemis aléatoires (4 max)"
+                },
+                {
+                  "desc": "[EnemyKill] Regagne 15 PSM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lamente-toi, Pleure et Désespère",
+          "desc": "[WhenUse] Perd 15 PSM\n[WhenUse] +1 de Puissance de Base pour chaque 5 [Sinking] sur la cible (<style=\"highlight\">4</style> max)\n[WhenUse] Plus la valeur des PSM de cette unité est éloignée de 45, plus elle inflige des dégâts (+0.3% de dégâts supplémentaires pour chaque PSM manquant, 21% max)\n[WhenUse] Inflige +<style=\"highlight\">10</style>% de dégâts supplémentaires pour chaque Cercueil sur soi (<style=\"highlight\">100</style>% max)\n[WhenUse] Inflige +<style=\"highlight\">20</style>% de dégâts supplémentaires pour chaque [NightPathfinding] sur soi (<style=\"highlight\">60</style>% max)\n[WhenUse] Gagne <style=\"highlight\">2</style> de [Coffin]\n[EndSkill] Si l’attaque de cette Capacité tue la cible, gagne <style=\"highlight\">3</style> de [Coffin]\n[EndSkill] À moins de 0 PSM, regagne 10 PSM. Lorsque à moins de 0 PSM, plus la valeur de PSM de cette unité est éloignée de 0 et plus elle regagne de PSM  (regagne <style=\"highlight\">2</style> PSM supplémentaires pour chaque PSM manquant ; <style=\"highlight\">50</style> max)\n[EndBattle] Perd [NightPathfinding]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">5</style> [Sinking] et +2 de Compte de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Augmente de <style=\"highlight\">30</style>% des dégâts infligés le Seuil de Déséquilibre de la cible"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige des dégâts d’Affinité de Peine égaux à la [Sinking] de la cible (<style=\"highlight\">30</style> max)"
+                },
+                {
+                  "desc": "[EnemyKill] Inflige ([Sinking] de la cible tuée/<style=\"highlight\">2</style>) [Sinking] à 2 ennemis aléatoires (<style=\"highlight\">8</style> max)"
+                },
+                {
+                  "desc": "[EnemyKill] Regagne 15 PSM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Répliquer",
+          "desc": "[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Répliquer",
+          "desc": "[WhenUse] Gagne +2 de Compte de [Breath]\n<style=\"highlight\">[WhenUse] Gagne 1 [Agility] au prochain tour (une fois par tour)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gagne +1 de Compte de [Breath]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Répliquer",
+          "desc": "[WhenUse] Gagne +2 de Compte de [Breath]\n[WhenUse] Gagne <style=\"highlight\">2</style> [Agility] au prochain tour (une fois par tour)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne +1 de Compte de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tir à la Tête",
+          "desc": "[WhenUse] Gagne 3 [Breath] et +1 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [PenetrateTakeDamageUp] (2 fois par tour)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Tir à la Tête",
+          "desc": "<style=\"highlight\">Si cette unité est plus rapide que la cible, inflige +10% de dégâts supplémentaires pour chaque 1 de différence de Vitesse (30% max)</style>\n[WhenUse] Gagne 3 [Breath] et +1 de Compte de [Breath]\n<style=\"highlight\">[WhenUse] Gagne 2 [Agility] au prochain tour (une fois par tour)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                },
+                {
+                  "desc": "<style=\"highlight\">+30% de Dégâts en Touche Critique</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [PenetrateTakeDamageUp] (2 fois par tour)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflige 1 [PenetrateTakeDamageUp] au prochain tour (une fois par tour)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tir à la Tête",
+          "desc": "Si cette unité est plus rapide que la cible, inflige +10% de dégâts supplémentaires pour chaque 1 de différence de Vitesse <style=\"highlight\">(50% max)</style>\n[WhenUse] Gagne 3 [Breath] et +<style=\"highlight\">2</style> de Compte de [Breath]\n[WhenUse] Gagne 2 [Agility] au prochain tour (une fois par tour)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                },
+                {
+                  "desc": "<style=\"highlight\">+50%</style> de Dégâts en Touche Critique"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [PenetrateTakeDamageUp] (2 fois par tour)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [PenetrateTakeDamageUp] au prochain tour (une fois par tour)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Viser dans l’Mille",
+          "desc": "[BeforeUse] Si cette unité possède [Bullet_LogicAtelier], active “Cartouche de Pulvérisation HV-AL” à la place\nSi cette unité est plus rapide que la cible, inflige +10% de dégâts supplémentaires pour chaque 1 de différence de Vitesse (50% max)\n[WhenUse] Gagne 5 [Breath]\n[WhenUse] Consomme toute [LogicAtelierAM] sur soi, gagne (valeur consommée * 2) d’Intensité de Calme et inflige +(valeur consommée * 12.5)% de dégâts supplémentaires",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                },
+                {
+                  "desc": "+50% de Dégâts en Touche Critique"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] À plus de 30 d’Intensité de [Breath], consomme jusqu’à 10 d’Intensité de [Breath] sur 30 pour infliger +(Intensité de [Breath] consommée * 10)% de dégâts supplémentaires"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Viser dans l’Mille",
+          "desc": "[BeforeUse] Si cette unité possède [Bullet_LogicAtelier], active “Cartouche de Pulvérisation HV-AL” à la place\nSi cette unité est plus rapide que la cible, inflige +10% de dégâts supplémentaires pour chaque 1 de différence de Vitesse (50% max)\n[WhenUse] Gagne 5 [Breath]\n[WhenUse] Consomme toute [LogicAtelierAM] sur soi, gagne (valeur consommée * 2) d’Intensité de Calme et inflige +(valeur consommée * 12.5)% de dégâts supplémentaires\n<style=\"highlight\">[EndSkill] Gagne +2 de Compte de [Breath]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet]"
+                },
+                {
+                  "desc": "<style=\"highlight\">+80%</style> de Dégâts en Touche Critique"
+                },
+                {
+                  "desc": "<style=\"highlight\">+(Rés. Perçante de la cible * 50)% de Dégâts en Touche Critique</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] À plus de 30 d’Intensité de [Breath], consomme jusqu’à 10 d’Intensité de [Breath] sur 30 pour infliger +(Intensité de [Breath] consommée * 10)% de dégâts supplémentaires"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Calme Combatif",
+          "desc": "Début du Tour : à 0 Munition, cette Capacité active “Mise à Couvert” à la place\n[WhenUse] Si Rep. du Bureau du Point Final Hong Lu est sur le terrain, demande du [MeleeCover] à cette unité (une fois par tour)\n[EndBattle] Gagne 1 [LogicAtelierAM] au prochain tour (une fois par tour)",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Calme Combatif",
+          "desc": "Début du Tour : à 0 Munition, cette Capacité active “Mise à Couvert” à la place\n[WhenUse] Si Rep. du Bureau du Point Final Hong Lu est sur le terrain, demande du [MeleeCover] à cette unité (une fois par tour)\n<style=\"highlight\">[OnSucceedEvade] Gagne 3 [Breath] (3 fois par tour)</style>\n[EndBattle] Gagne 1 [LogicAtelierAM] au prochain tour (une fois par tour)",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071105,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Cartouche de Pulvérisation HV-AL",
+          "desc": "Si cette unité est plus rapide que la cible, inflige +10% de dégâts supplémentaires pour chaque 1 de différence de Vitesse (50% max)\n[WhenUse] Gagne 5 [Breath]\n[WhenUse] Consomme toute [LogicAtelierAM] sur soi, gagne (valeur consommée * 2) d’Intensité de [Breath] et inflige +(valeur consommée * 25)% de dégâts supplémentaires",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet_LogicAtelier]"
+                },
+                {
+                  "desc": "+100% de Dégâts en Touche Critique"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] À plus de 30 d’Intensité de [Breath], consomme jusqu’à 10 d’Intensité de [Breath] sur 30 pour infliger +(Intensité de [Breath] consommée * 10)% de dégâts supplémentaires"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cartouche de Pulvérisation HV-AL",
+          "desc": "Si cette unité est plus rapide que la cible, inflige +10% de dégâts supplémentaires pour chaque 1 de différence de Vitesse (50% max)\n[WhenUse] Gagne 5 [Breath]\n[WhenUse] Consomme toute [LogicAtelierAM] sur soi, gagne (valeur consommée * 2) d’Intensité de [Breath] et inflige +(valeur consommée * 25)% de dégâts supplémentaires\n<style=\"highlight\">[EndSkill] Gagne +5 de Compte de [Breath]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 [Bullet_LogicAtelier]"
+                },
+                {
+                  "desc": "<style=\"highlight\">+130%</style> de Dégâts en Touche Critique"
+                },
+                {
+                  "desc": "<style=\"highlight\">+(Rés. Perçante de la cible * 50)% de Dégâts en Touche Critique</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] À plus de 30 d’Intensité de [Breath], consomme jusqu’à 10 d’Intensité de [Breath] sur 30 pour infliger +(Intensité de [Breath] consommée * 10)% de dégâts supplémentaires"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mise à Couvert",
+          "desc": "[CanDuelGuard]\n[WhenUse] Si Rep. du Bureau du Point Final Hong Lu est sur le terrain, demande du [MeleeCover] à cette unité (une fois par tour)\n[EndBattle] Gagne 1 [LogicAtelierAM] au prochain tour (une fois par tour)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mise à Couvert",
+          "desc": "[CanDuelGuard]\n[WhenUse] Si Rep. du Bureau du Point Final Hong Lu est sur le terrain, demande du [MeleeCover] à cette unité (une fois par tour)\n<style=\"highlight\">[WinDuel] Inflige 1 [PenetrateResistDown] (une fois par tour)</style>\n[EndBattle] Gagne 1 [LogicAtelierAM] au prochain tour (une fois par tour)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Déchirure Lenticulaire",
+          "desc": "[WhenUse] Gagne 1 [Endurance] au prochain tour (une fois par tour)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Déchirure Lenticulaire",
+          "desc": "<style=\"highlight\">Si la cible a 6 [Laceration] ou plus, +1 de Puissance de Pièce</style>\n[WhenUse] Gagne 1 [Endurance] au prochain tour (une fois par tour)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Déchirure Lenticulaire",
+          "desc": "<style=\"highlight\">+1 de Puissance de Pièce tous les 6 [Laceration] sur la cible (2 max)</style>\n[WhenUse] Gagne <style=\"highlight\">2</style> [Endurance] au prochain tour (une fois par tour)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nuage Tempêtueux",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Reduction] (une fois par tour)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Nuage Tempêtueux",
+          "desc": "<style=\"highlight\">Si la cible a 6 [Laceration] ou plus, +1 de Puissance de Pièce</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflige 1 [SlashTakeDamageUp]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Reduction] (une fois par tour)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nuage Tempêtueux",
+          "desc": "<style=\"highlight\">+1 de Puissance de Pièce tous les 6 [Laceration] sur la cible (2 max)\n[WhenUse] Gagne 1 [Endurance] au prochain tour (une fois par tour)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 [SlashTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Reduction] (<style=\"highlight\">2 fois</style> par tour)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Coupe Orageuse",
+          "desc": "Si la cible a 6 [Laceration] ou plus, +1 de Puissance de Pièce\n[StartBattle] Gagne 1 [CloudWall] au prochain tour\n[WhenUse] Gagne 1 [Endurance] au prochain tour (une fois par tour)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] La Pièce finale inflige +10% de dégâts supplémentaires"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [SlashTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] La Pièce finale inflige +10% de dégâts supplémentaires"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige +10% de dégâts supplémentaires pour chaque type d’effet négatif sur la cible (30% max)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Coupe Orageuse",
+          "desc": "<style=\"highlight\">+1 de Puissance de Pièce tous les 6 [Laceration] sur la cible (2 max)</style>\n[StartBattle] Gagne 1 [CloudWall] au prochain tour\n[WhenUse] Gagne 1 [Endurance] au prochain tour (une fois par tour)\n<style=\"highlight\">[WinDuel] Gagne 1 [BlackCloudBlade] au prochain tour (une fois par tour)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] La Pièce finale inflige +10% de dégâts supplémentaires"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [SlashTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] La Pièce finale inflige +10% de dégâts supplémentaires"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige +10% de dégâts supplémentaires pour chaque type d’effet négatif sur la cible <style=\"highlight\">(100% max)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Règles des Ruelles",
+          "desc": "[DuelCounter]\nSi Capitaine du Clan Kurokumo Ishmaël est sur le terrain, active le suivant :\n- Converti toutes les Pièces de cette Capacité en [SuperCoin]\n- +3 de Puissance Finale à cette Capacité en perdant un Duel\n[WhenUse] Si cette unité a [CloudWall], active sans condition tous les effets de Réutilisation des Pièces de cette Capacité",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si cette unité a [BlackCloudBlade], Réutilise cette Pièce une fois (une fois par Capacité)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si cette unité a [EngageToBattle], Réutilise cette Pièce une fois (une fois par Capacité)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Règles des Ruelles",
+          "desc": "[DuelCounter]\nSi Capitaine du Clan Kurokumo Ishmaël est sur le terrain, active le suivant :\n- Converti toutes les Pièces de cette Capacité en [SuperCoin]\n- +4 de Puissance Finale à cette Capacité en perdant un Duel\n<style=\"highlight\">Inflige +10% de dégâts supplémentaires pour chaque type d’effet négatif sur la cible (100% max)</style>\n[WhenUse] Si cette unité a [CloudWall], active sans condition tous les effets de Réutilisation des Pièces de cette Capacité",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si cette unité a [BlackCloudBlade], Réutilise cette Pièce une fois (une fois par Capacité)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si cette unité a [EngageToBattle], Réutilise cette Pièce une fois (une fois par Capacité)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Règles des Ruelles",
+          "desc": "[WhenUse] Si cette unité a [CloudWall], active sans condition tous les effets de Réutilisation des Pièces de cette Capacité",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si cette unité a [BlackCloudBlade], Réutilise cette Pièce une fois (une fois par Capacité)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si cette unité a [EngageToBattle], Réutilise cette Pièce une fois (une fois par Capacité)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Règles des Ruelles",
+          "desc": "Si la cible a 6 [Laceration] ou plus, +1 de Puissance de Pièce\nInflige +10% de dégâts supplémentaires pour chaque type d’effet négatif sur la cible (100% max)\n[WhenUse] Si cette unité a [CloudWall], active sans condition tous les effets de Réutilisation des Pièces de cette Capacité",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si cette unité a [BlackCloudBlade], Réutilise cette Pièce une fois (une fois par Capacité)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si cette unité a [EngageToBattle], Réutilise cette Pièce une fois (une fois par Capacité)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

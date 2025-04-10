@@ -1,0 +1,473 @@
+{
+  "dataList": [
+    {
+      "id": 2040511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 Lourdeur"
+                },
+                {
+                  "desc": "[EnemyKill] Gagne 3 ressources E.G.O. d’une Affinité aléatoire déjà possédée"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Lourdeur"
+                },
+                {
+                  "desc": "[EnemyKill] Gagne 3 ressources E.G.O. d’une Affinité aléatoire déjà possédée ; tous les alliés regagnent 3 PSM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 Lourdeur"
+                },
+                {
+                  "desc": "[EnemyKill] Gagne 3 ressources E.G.O. d’une Affinité aléatoire déjà possédée ; tous les alliés regagnent 3 PSM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nCible aléatoirement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 Lourdeur"
+                },
+                {
+                  "desc": "[EndSkill] Tous les alliés gagnent +1 d’Amp de Ressources E.G.O."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nCible aléatoirement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Lourdeur"
+                },
+                {
+                  "desc": "[EndSkill] Tous les alliés gagnent +1 d’Amp de Ressources E.G.O."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nCible aléatoirement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 Lourdeur"
+                },
+                {
+                  "desc": "[EndSkill] Tous les alliés gagnent +1 d’Amp de Ressources E.G.O., applique 1 Accélération au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Obsession Aveugle",
+          "abName": "Courantlimon Dévo’Rêve",
+          "desc": "[BeforeAttack] Gagne 4 Calme",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +2 de Compte de Charge"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gagne +2 de Compte de Charge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Obsession Aveugle",
+          "abName": "Courantlimon Dévo’Rêve",
+          "desc": "[BeforeAttack] Gagne 4 Calme\n[EndSkill] Gagne 2 Calme pour chaque unité vaincue par cette Capacité",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +2 de Compte de Charge"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gagne +2 de Compte de Charge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Obsession Aveugle",
+          "abName": "Courantlimon Dévo’Rêve",
+          "desc": "[BeforeAttack] Gagne 4 Calme\n[EndSkill] Gagne 2 Calme pour chaque unité vaincue par cette Capacité",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +2 de Compte de Charge"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gagne +2 de Compte de Charge"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Obsession Aveugle",
+          "abName": "Courantlimon Dévo’Rêve",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] Gagne 4 Calme. Consomme 2 de Compte de Charge pour gagner 1 Calme (Max 10)\n[EndSkill] Gagne +4 de Compte de Charge pour chaque unité vaincue par cette Capacité",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +1 de Compte de Calme"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Obsession Aveugle",
+          "abName": "Courantlimon Dévo’Rêve",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] Gagne 4 Calme. Consomme 2 de Compte de Charge pour gagner 1 Calme (Max 10)\n[EndSkill] Gagne +4 de Compte de Charge pour chaque unité vaincue par cette Capacité",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +1 de Compte de Calme"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Obsession Aveugle",
+          "abName": "Courantlimon Dévo’Rêve",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] Gagne 4 Calme. Consomme 2 de Compte de Charge pour gagner 1 Calme (Max 10)\n[EndSkill] Gagne +4 de Compte de Charge pour chaque unité vaincue par cette Capacité",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +1 de Compte de Calme"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] À 10 [Breath] ou plus, gagne +30% de Dégâts Critiques"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mépris, Émerveillement",
+          "abName": "Spirale de Mépris",
+          "desc": "[BeforeAttack] Gagne (plus haute Réson.) de Poids d’Atq (2 max)\n[BeforeAttack] Gagne (plus haute Réson. + 1) [GazePersonality] (7 max)\n[EndSkill] Pendant 2 tours, perd 10 PSM à la Fin du Tour",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Inflige équitablement 10 [Laceration] entre toutes les cibles"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mépris, Émerveillement",
+          "abName": "Spirale de Mépris",
+          "desc": "[BeforeAttack] Gagne (plus haute Réson.) de Poids d’Atq (<style=\"highlight\">4</style> max)\n[BeforeAttack] Gagne (plus haute Réson. + 1) [GazePersonality] (7 max)\n[EndSkill] Pendant 2 tours, perd 10 PSM à la Fin du Tour",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Inflige équitablement <style=\"highlight\">15</style> [Laceration] entre toutes les cibles"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mépris, Émerveillement",
+          "abName": "Spirale de Mépris",
+          "desc": "[BeforeAttack] Gagne (plus haute Réson.) de Poids d’Atq (<style=\"highlight\">6</style> max)\n[BeforeAttack] Gagne (plus haute Réson. + 1) [GazePersonality] <style=\"highlight\">ce tour et au prochain tour</style> (7 max)\n<style=\"highlight\">[EndSkill] Si cette Capacité faisait partie d’une Réson. de Luxure, gagne 1 ressource E.G.O. des Affinités correspondants aux Capacités Offensives de cette unité</style>\n[EndSkill] Pendant 2 tours, perd 10 PSM à la Fin du Tour",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Inflige équitablement 15 [Laceration] entre toutes les cibles"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mépris, Émerveillement",
+          "abName": "Spirale de Mépris",
+          "desc": "[CantIdentify]\nCible Aléatoirement\n[BeforeAttack] Gagne 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a [Laceration], inflige +(somme de l’Intensité et du Compte de [Laceration] sur la cible)% de dégâts supplémentaires (20% max)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige (1 + (plus haute Réson. * 1.5)) [Laceration] (10 max, arrondi à l’inférieur)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mépris, Émerveillement",
+          "abName": "Spirale de Mépris",
+          "desc": "[CantIdentify]\nCible Aléatoirement\n[BeforeAttack] Gagne 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a [Laceration], inflige +(somme de l’Intensité et du Compte de [Laceration] sur la cible)% de dégâts supplémentaires (<style=\"highlight\">40%</style> max)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">(3 + (plus haute Réson. * 2))</style> [Laceration] (<style=\"highlight\">15</style> max, arrondi à l’inférieur)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">3</style> de Compte de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mépris, Émerveillement",
+          "abName": "Spirale de Mépris",
+          "desc": "[CantIdentify]\nCible Aléatoirement\n[BeforeAttack] Gagne 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] Si cette Capacité faisait partie d’une Réson. de Luxure, gagne 1 ressource E.G.O. des Affinités correspondants aux Capacités Offensives de cette unité</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a [Laceration], inflige +(somme de l’Intensité et du Compte de [Laceration] sur la cible)% de dégâts supplémentaires (<style=\"highlight\">60%</style> max)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">(10 + (plus haute Réson. * 2.5))</style> [Laceration] (<style=\"highlight\">25</style> max, arrondi à l’inférieur)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">5</style> de Compte de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thoracalgie",
+          "abName": "Sac de Couchage d’un Jour d’Antan",
+          "desc": "[BeforeAttack] Gagne (plus haute Réson.) [Breath] (4 max)\n- À 15 [Breath] ou plus, gagne +(plus haute Réson.) de Puissance Finale à la place (4 max)\n[BeforeAttack] Gagne (plus haute Réson. / 2) de Compte de [Breath] (2 max)\n- À 5 de Compte de [Breath] ou plus, gagne +(plus haute Réson. / 2) de Puissance de Pièce à la place (2 max)\n[TargetKill] Gagne 1 [HoldingBreath] au prochain tour (2 fois par tour)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [HoldingBreath] (une fois par tour)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thoracalgie",
+          "abName": "Sac de Couchage d’un Jour d’Antan",
+          "desc": "[BeforeAttack] Gagne (plus haute Réson.) [Breath] (<style=\"highlight\">6</style> max)\n- À 15 [Breath] ou plus, gagne +(plus haute Réson.) de Puissance Finale à la place (<style=\"highlight\">6</style> max)\n[BeforeAttack] Gagne (plus haute Réson. / 2) de Compte de [Breath] (2 max)\n- À 5 de Compte de [Breath] ou plus, gagne +(plus haute Réson. / 2) de Puissance de Pièce à la place (2 max)\n[TargetKill] Gagne <style=\"highlight\">2</style> [HoldingBreath] au prochain tour (<style=\"highlight\">4</style> fois par tour)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Inflige +(Intensité + Compte de [Breath])% de dégâts supplémentaires en Touche Critique (20% max)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [HoldingBreath] (une fois par tour)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thoracalgie",
+          "abName": "Sac de Couchage d’un Jour d’Antan",
+          "desc": "[BeforeAttack] Gagne (plus haute Réson.) [Breath] (6 max)\n- À 15 [Breath] ou plus, gagne +(plus haute Réson.) de Puissance Finale à la place (6 max)\n[BeforeAttack] Gagne (plus haute Réson. / 2) de Compte de [Breath] (<style=\"highlight\">3</style> max)\n- À 5 de Compte de [Breath] ou plus, gagne +(plus haute Réson. / 2) de Puissance de Pièce à la place (<style=\"highlight\">3</style> max)\n[TargetKill] Gagne 2 [HoldingBreath] au prochain tour (<style=\"highlight\">6</style> fois par tour)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige +(Intensité + Compte de [Breath])% de dégâts supplémentaires en Touche Critique (<style=\"highlight\">40%</style> max)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne <style=\"highlight\">4</style> [HoldingBreath] (une fois par tour)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thoracalgie",
+          "abName": "Sac de Couchage d’un Jour d’Antan",
+          "desc": "[CantIdentify]\nPriorise les cibles avec le moins de PV (priorise les alliés)\nSi un allié est l’une des cibles de cette Capacité, inflige +30% de dégâts supplémentaires\n\n[BeforeAttack] À moins de 15 [Breath], consomme 10% de PV pour gagner 5 [Breath] et +5 de Compte de [Breath]\n- Ne peut pas être Déséquilibrée ou vaincue suite à cet effet\n\n[EndSkill] Si la cible est vaincue, gagne 2 [HoldingBreath] au prochain tour. (une fois par tour) Si cette cible était un allié, active également l’effet suivant :\n- Les alliés qui participent ou Rejoignent cet Affrontement suite aux alliés vaincus gagnent 2 [Breath] et +2 de Compte de [Breath]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 4 [HoldingBreath] (une fois par tour)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thoracalgie",
+          "abName": "Sac de Couchage d’un Jour d’Antan",
+          "desc": "[CantIdentify]\nPriorise les cibles avec le moins de PV (priorise les alliés)\nSi un allié est l’une des cibles de cette Capacité, inflige +30% de dégâts supplémentaires\n\n[BeforeAttack] À moins de 15 [Breath], consomme 10% de PV pour gagner 5 [Breath] et +5 de Compte de [Breath]\n- Ne peut pas être Déséquilibrée ou vaincue suite à cet effet\n<style=\"highlight\">- Gagne 1 [Breath] pour chaque allié cible par cette Capacité (2 max)</style>\n\n[EndSkill] Si la cible est vaincue, gagne 2 [HoldingBreath] au prochain tour. (une fois par tour) Si cette cible était un allié, active également l’effet suivant :\n- Les alliés qui participent ou Rejoignent cet Affrontement suite aux alliés vaincus gagnent <style=\"highlight\">4</style> [Breath] et +2 de Compte de [Breath]\n<style=\"highlight\">- Regagne la moitié des PSM utilisés par cette Capacité</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Inflige +(Intensité + Compte de [Breath])% de dégâts supplémentaires en Touche Critique (20% max)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 4 [HoldingBreath] (une fois par tour)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thoracalgie",
+          "abName": "Sac de Couchage d’un Jour d’Antan",
+          "desc": "[CantIdentify]\nPriorise les cibles avec le moins de PV (priorise les alliés)\nSi un allié est l’une des cibles de cette Capacité, inflige +30% de dégâts supplémentaires\n\n[BeforeAttack] À moins de 15 [Breath], consomme 10% de PV pour gagner 5 [Breath] et +5 de Compte de [Breath]\n- Ne peut pas être Déséquilibrée ou vaincue suite à cet effet\n- Gagne <style=\"highlight\">2</style> [Breath] pour chaque allié ciblé par cette Capacité (<style=\"highlight\">4</style> max)\n\n[EndSkill] Si la cible est vaincue, gagne 3 [HoldingBreath] au prochain tour. (une fois par tour) Si cette cible était un allié, active également l’effet suivant :\n- Les alliés qui participent ou Rejoignent cet Affrontement suite aux alliés vaincus gagnent 4 [Breath] et +<style=\"highlight\">4</style> de Compte de [Breath]\n<style=\"highlight\">- Regagne les PSM utilisés par cette Capacité et regagne 1 de chaque ressource E.G.O. consommée</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige +(Intensité + Compte de [Breath])% de dégâts supplémentaires en Touche Critique (<style=\"highlight\">40%</style> max)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne <style=\"highlight\">7</style> [HoldingBreath] (une fois par tour)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

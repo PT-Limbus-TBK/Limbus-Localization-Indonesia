@@ -1,0 +1,1396 @@
+{
+  "dataList": [
+    {
+      "id": 1120601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Confrontation",
+          "desc": "[WhenUse] Gagne 2 Bonus de Niveau Défensif",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 1 Accélération au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Confrontation",
+          "desc": "[WhenUse] Gagne 2 Bonus de Niveau Défensif\n[DefeatDuel] Gagne (3 * Bonus de Niveau Défensif sur soi) de Bouclier ; gagne 1 Bonus de Niveau Défensif au prochain tour",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Accélération au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Confrontation",
+          "desc": "[WhenUse] Gagne 2 Bonus de Niveau Défensif\n[DefeatDuel] Gagne (5 * Bonus de Niveau Défensif sur soi) de Bouclier ; gagne 2 Bonus de Niveau Défensif au prochain tour",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 Accélération au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Répression Souple",
+          "desc": "[WhenUse] Gagne 2 Bonus de Niveau Défensif",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "À 6 Bonus de Niveau Défensif ou plus, inflige +20% de dégâts"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Répression Souple",
+          "desc": "[WhenUse] Gagne 3 Bonus de Niveau Défensif\n[WhenUse] Gagne +2 d’Aggro sur cet Emplacement de Capacité au prochain tour",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "À 6 Bonus de Niveau Défensif ou plus, inflige +30% de dégâts"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Répression Souple",
+          "desc": "[WhenUse] Gagne 3 Bonus de Niveau Défensif\n[WhenUse] Gagne +3 d’Aggro sur cet Emplacement de Capacité au prochain tour\nÀ 6 Bonus de Niveau Défensif ou plus, +1 de Puissance de Duel",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Bonus de Niveau Défensif au prochain tour"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "À 6 Bonus de Niveau Défensif ou plus, inflige +40% de dégâts"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Gardien",
+          "desc": "[WhenUse] Applique 2 Bonus de Puissance Défensive et 3 Bonus de Niveau Défensif à tous les alliés\nÀ 6 Bonus de Niveau Défensif ou plus, +1 de Puissance de Pièce\nÀ 10 Bonus de Niveau Défensif ou plus, inflige +30% de dégâts",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Applique 3 Bonus de Niveau Défensif à tous les alliés au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Gardien",
+          "desc": "[WhenUse] Applique 2 Bonus de Puissance Défensive et 3 Bonus de Niveau Défensif à tous les alliés\n+1 de Puissance de Pièce tous les 6 Bonus de Niveau Défensif (3 Max)\nÀ 10 Bonus de Niveau Défensif ou plus, inflige +50% de dégâts",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Applique 3 Bonus de Niveau Défensif à tous les alliés au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Meilleure Défense",
+          "desc": "[StartBattle] Gagne (2 * Bonus de Niveau Défensif sur soi) de Bouclier",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Meilleure Défense",
+          "desc": "[StartBattle] Gagne (2 * Bonus de Niveau Défensif sur soi) de Bouclier\n[WhenUse] Gagne +5 d’Aggro sur cet Emplacement de Capacité au prochain tour",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Début des Négociations",
+          "desc": "[WhenUse] Gagne 2 Calme",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne +1 de Compte de Calme"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Début des Négociations",
+          "desc": "[WhenUse] Gagne 3 Calme",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +1 de Compte de Calme"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 Saignement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Début des Négociations",
+          "desc": "[WhenUse] Gagne 3 Calme\nSi la cible a 7 Saignement ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +1 de Compte de Calme"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 Saignement"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Affaire Unilatérale",
+          "desc": "[WhenUse] Gagne +2 de Compte de Calme",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 3 Calme"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Saignement"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 Saignement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Affaire Unilatérale",
+          "desc": "[WhenUse] Gagne +3 de Compte de Calme",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 4 Calme"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Saignement"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 Saignement"
+                },
+                {
+                  "desc": "+30% de Dégâts en Coup Critique"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Affaire Unilatérale",
+          "desc": "+1 de Puissance de Pièce pour chaque 7 de Saignement sur la cible (2 Max)\n[WhenUse] Gagne +3 de Compte de Calme",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 4 Calme"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Saignement"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 Saignement"
+                },
+                {
+                  "desc": "+50% de Dégâts en Coup Critique"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Conclusion Prédéfinie",
+          "desc": "[WhenUse] Gagne 1 Calme pour chaque 3 de Saignement sur la cible (5 Max)\nÀ 7 Calme ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige +2 de Compte de Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 Munition"
+                },
+                {
+                  "desc": "+50% de Dégâts en Coup Critique"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Conclusion Prédéfinie",
+          "desc": "[WhenUse] Gagne 1 Calme pour chaque 3 de Saignement sur la cible (10 Max)\nGagne +1 de Puissance de Pièce pour chaque 7 de Calme sur soi (+3 Max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige +2 de Compte de Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Dépense 1 Munition"
+                },
+                {
+                  "desc": "+100% de Dégâts en Coup Critique"
+                },
+                {
+                  "desc": "[EnemyKill] Gagne 1 Bonus de Puissance de Pièce Positive au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Faire une Pause",
+          "desc": "[OnSucceedEvade] Gagne 1 Calme (3 Max par tour)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Faire une Pause",
+          "desc": "[OnSucceedEvade] Gagne 1 Calme (5 Max par tour)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Déchirure Lenticulaire",
+          "desc": "[WinDuel] Inflige 1 [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Compte de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Déchirure Lenticulaire",
+          "desc": "<style=\"highlight\">[WhenUse] Si la cible a 7 [Laceration] ou plus, +1 de Puissance de Duel</style>\n[WinDuel] Inflige 1 [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Compte de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Déchirure Lenticulaire",
+          "desc": "[WhenUse_Force] <color=#EBCAA2>Si la cible a 7 [Laceration] ou plus, +1 de Puissance de Duel</color>\n[WinDuel] Inflige 1 [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Compte de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Déchirure Lenticulaire",
+          "desc": "[WhenUse] Si la cible a 7 [Laceration] ou plus, +<style=\"highlight\">2</style> de Puissance de Duel\n[WinDuel] Inflige 1 [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Compte de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nuage d’Ombre",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Malus de Niveau Défensif"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 10 [Laceration] ou plus, inflige 1 Malus de Puissance Offensive au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Nuage d’Ombre",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Malus de Niveau Défensif"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 10 [Laceration] ou plus, inflige 1 Malus de Puissance Offensive au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nuage d’Ombre",
+          "desc": "[WhenUse] Si la cible a 7 [Laceration] ou plus, +2 de Puissance de Duel",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Malus de Niveau Défensif"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 7 [Laceration] ou plus, inflige 1 Malus de Puissance Offensive au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Fente du Nuage d’Ombre Éclatant",
+          "desc": "[WhenUse] Si la cible a 7 [Laceration] ou plus, +1 de Puissance de Duel",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Malus de Niveau Défensif"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 7 [Laceration] ou plus, inflige 1 Malus de Niveau Offensif au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Malus de Niveau Défensif"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 7 [Laceration] ou plus, inflige 1 Malus de Niveau Offensif au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 10 [Laceration] ou plus, inflige 1 Malus de Puissance de Pièce Positive au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fente du Nuage d’Ombre Éclatant",
+          "desc": "[WhenUse] Si la cible a 7 [Laceration] ou plus, +1 de Puissance de Duel\n[WhenUse] Si la cible a 10 [Laceration] ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Malus de Niveau Défensif"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 7 [Laceration] ou plus, inflige 1 Malus de Niveau Offensif au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Malus de Niveau Défensif"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 7 [Laceration] ou plus, inflige 1 Malus de Niveau Offensif au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a <style=\"highlight\">7</style> [Laceration] ou plus, inflige 1 Malus de Puissance de Pièce Positive au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Garde",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Garde",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Taillade au Sabre",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Taillade au Sabre",
+          "desc": "[WhenUse] Si la cible a 6 [Sinking] ou plus, +2 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Taillade au Sabre",
+          "desc": "[WhenUse] +1 de Puissance de Pièce pour chaque 3 [Sinking] sur la cible (2 max)\n[WhenUse] +1 de Puissance de Duel pour chaque 3 de Compte de [Sinking] sur la cible (2 max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Remise",
+          "desc": "[WinDuel] Inflige +1 de Compte de [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 5 [Sinking] ou plus, gagne 1 [Agility] au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Compte de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Remise",
+          "desc": "[WhenUse] +1 de Puissance de Duel pour chaque 3 de Compte de [Sinking] sur la cible (2 max)\n[WinDuel] Inflige +1 de Compte de [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 5 [Sinking] ou plus, gagne 1 [Agility] au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Compte de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Remise",
+          "desc": "[WhenUse] Si la cible a 6 [Sinking] ou plus, +1 de Puissance de Pièce\n[WhenUse] +1 de Puissance de Duel pour chaque 3 de Compte de [Sinking] sur la cible (2 max)\n[WinDuel] Inflige +2 de Compte de [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 5 [Sinking] ou plus, gagne 1 [Agility] au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Compte de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Chasse au Cauchemar",
+          "desc": "[WhenUse] +1 de Puissance de Duel pour chaque 3 de Compte de [Sinking] sur la cible (2 max)\n[EndSkill] Si la cible est Déséquilibrée, inflige +3 de Compte de [Sinking]\n[EndSkill] Si la cible est vaincue, inflige +3 de Compte de [Sinking] à 1 ennemi aléatoire",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Absorbe 10 [Sinking] de la cible et gagne 1 [PlusCoinValueUp] et 1 [AttackDmgUp] au prochain tour. 50% de chance de gagner les effets ci-dessus sans absorber de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chasse au Cauchemar",
+          "desc": "[WhenUse] +1 de Puissance de Duel pour chaque 3 de Compte de [Sinking] sur la cible (3 max)\n[EndSkill] Si la cible est Déséquilibrée, inflige +3 de Compte de [Sinking]\n[EndSkill] Si la cible est vaincue, inflige +3 de Compte de [Sinking] à 2 ennemis aléatoires",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Absorbe 10 [Sinking] de la cible et gagne 1 [PlusCoinValueUp] et 3 [AttackDmgUp] au prochain tour. 50% de chance de gagner les effets ci-dessus sans absorber de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Souhaites-Tu Pleurer ?",
+          "desc": "[WhenUse] Si la cible a 5 [Sinking] ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Souhaites-Tu Pleurer ?",
+          "desc": "[WhenUse] +1 de Puissance de Pièce pour chaque 3 [Sinking] sur la cible (3 max)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sacrifice pour la Famille",
+          "desc": "[WhenUse] Gagne +3 d’[Aggro] sur cet Emplacement de Capacité au prochain tour\n[WhenUse] Gagne 10 [Laceration]\n- À 50% de PV ou plus, gagne +15 [Laceration] supplémentaire",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Sacrifice pour la Famille",
+          "desc": "[WhenUse] Gagne +3 d’[Aggro] sur cet Emplacement de Capacité au prochain tour\n<style=\"highlight\">[WhenUse] Si la cible a 6 [Laceration] ou plus, +1 de Puissance de Pièce</style>\n[WhenUse] Gagne 10 [Laceration]\n- À 50% de PV ou plus, gagne 15 [Laceration] supplémentaire",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne <style=\"highlight\">2</style> [BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sacrifice pour la Famille",
+          "desc": "[WhenUse] Gagne +3 d’[Aggro] sur cet Emplacement de Capacité au prochain tour\n<style=\"highlight\">[WhenUse] +1 de Puissance de Pièce pour chaque 6 [Laceration] sur la cible (2 max)</style>\n[WhenUse] Gagne 10 [Laceration]\n- À 50% de PV ou plus, gagne 15 [Laceration] supplémentaire",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne <style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Culpabilité Étouffante",
+          "desc": "[WhenUse] Gagne +3 d’[Aggro] sur cet Emplacement de Capacité au prochain tour\n[WhenUse] Gagne 10 [Laceration]\n[WhenUse] À 5 [WornHeartGreg] ou plus, consomme jusqu’à 60 [BloodDinner] ; puis, gagne 1 [BloodyHandGregFirst] pour chaque 6 [BloodDinner] consommé\n- À moins de 5 [WornHeartGreg], gagne 10 [Laceration] et 2 [BloodyHandGregFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Compte de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Culpabilité Étouffante",
+          "desc": "[WhenUse] Gagne +3 d’[Aggro] sur cet Emplacement de Capacité au prochain tour\n<style=\"highlight\">[WhenUse] Si la cible a 6 [Laceration] ou plus, +1 de Puissance de Pièce</style>\n[WhenUse] Gagne 10 [Laceration]\n[WhenUse] À 5 [WornHeartGreg] ou plus, consomme jusqu’à 60 [BloodDinner] ; puis, gagne 1 [BloodyHandGregFirst] pour chaque 6 [BloodDinner] consommé\n- À moins de 5 [WornHeartGreg], gagne 10 [Laceration] et 2 [BloodyHandGregFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">2</style> de Compte de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne <style=\"highlight\">2</style> [BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Culpabilité Étouffante",
+          "desc": "[WhenUse] Gagne +3 d’[Aggro] sur cet Emplacement de Capacité au prochain tour\n<style=\"highlight\">[WhenUse] +1 de Puissance de Pièce pour chaque 6 [Laceration] sur la cible (2 max)</style>\n[WhenUse] Gagne 10 [Laceration]\n[WhenUse] À 5 [WornHeartGreg] ou plus, consomme jusqu’à 60 [BloodDinner] ; puis, gagne 1 [BloodyHandGregFirst] pour chaque 6 [BloodDinner] consommé\n- À moins de 5 [WornHeartGreg], gagne 10 [Laceration] et <style=\"highlight\">3</style> [BloodyHandGregFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne <style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Le Péché Inexpiable",
+          "desc": "En Touche avec cette Capacité : regagne 50% des dégâts infligés en PV (100 max par Capacité)\n[WhenUse] Inflige +1% de dégâts supplémentaires pour chaque 1% de PV manquant sur soi (60% max)\n[WhenUse] Si la cible a 6 [Laceration] ou plus, +1 de Puissance de Pièce\n[WhenUse] Consommme chaque Valeur en excès de [BloodyHandGregFirst] au-delà de 10 de Valeur pour gagner les effets suivants :\n- Regagne (Valeur consommée * 3) PV sur soi\n- Si cette unité a consommé 10 de Valeur ou plus, +1 de Puissance de Pièce\n[WhenUse] Gagne 10 [Laceration]\n[EndSkill] Regagne 10% de PV sur soi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [BloodyHandGregFirst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Compte de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Compte de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Le Péché Inexpiable",
+          "desc": "En Touche avec cette Capacité : regagne 50% des dégâts infligés en PV (100 max par Capacité)\n[WhenUse] Inflige <style=\"highlight\">+1.5%</style> de dégâts supplémentaires pour chaque 1% de PV manquant sur soi <style=\"highlight\">(90% max)</style>\n[WhenUse] Si la cible a 6 [Laceration] ou plus, +1 de Puissance de Pièce\n[WhenUse] Consommme chaque Valeur en excès de [BloodyHandGregFirst] au-delà de 10 de Valeur pour gagner les effets suivants :\n- Regagne (Valeur consommée * 3) PV sur soi\n- Si cette unité a consommé 10 de Valeur ou plus, +1 de Puissance de Pièce\n<style=\"highlight\">- Si cette unité a consommé 20 de Valeur ou plus, Réutilise la Pièce finale</style>\n[WhenUse] Gagne 10 [Laceration]\n[EndSkill] Regagne 10% de PV sur soi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne <style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">2</style> de Compte de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">2</style> de Compte de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Patience Estompée",
+          "desc": "[StartBattle] Gagne 3 [WornHeartGreg] (une fois par tour)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Patience Estompée",
+          "desc": "<style=\"highlight\">[StartBattle] À 40% de PV ou plus, gagne 5 [Laceration] et active [Laceration] jusqu’à 3 fois sur soi (une fois par tour ; perd du Compte de [Laceration] égal au nombre d’activation)\n[StartBattle] À moins de 40% de PV, consomme jusqu’à 20 [BloodDinner] et regagne cette même valeur en PV (une fois par tour)</style>\n[StartBattle] Gagne 3 [WornHeartGreg] (une fois par tour)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lancé de Flamme",
+          "desc": "Si la cible a 6 [Combustion] ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Consomme 15 [FirePunchFuel] et inflige +1 de Compte de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Lancé de Flamme",
+          "desc": "Si la cible a <style=\"highlight\">3</style> [Combustion] ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Consomme 15 [FirePunchFuel] et inflige +1 de Compte de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lancé de Flamme",
+          "desc": "<style=\"highlight\">+1 de Puissance de Pièce pour chaque 3 [Combustion] sur la cible (2 max)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Consomme 15 [FirePunchFuel] et inflige +<style=\"highlight\">2</style> de Compte de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Je brûlerai la moindre goutte de votre sang immonde",
+          "desc": "Si la cible a 6 [Combustion] ou plus, +1 de Puissance de Pièce\nLorsqu’en état de [FirePunchFuelOverheated], inflige +10% de dégâts supplémentaires avec des Pièces qui consomment du [FirePunchFuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Consomme 10 [FirePunchFuel] et inflige 1 [Combustion] à 2 ennemis avec le moins d’Intensité de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Compte de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Consomme 10 [FirePunchFuel] et inflige +1 de Compte de [Combustion] à 1 ennemi avec le moins de Compte de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Je brûlerai la moindre goutte de votre sang immonde",
+          "desc": "Si la cible a 6 [Combustion] ou plus, +1 de Puissance de Pièce\nLes Pièces qui consomment du [FirePunchFuel] infligent +10% de dégâts supplémentaires\n<style=\"highlight\">- Lorsqu’en état de [FirePunchFuelOverheated], inflige +20% de dégâts supplémentaires à la place</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Consomme 10 [FirePunchFuel] et inflige 1 [Combustion] à 2 ennemis avec le moins d’Intensité de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Compte de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Consomme 10 [FirePunchFuel] et inflige +1 de Compte de [Combustion] à <style=\"highlight\">2 ennemis</style> avec le moins de Compte de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Je brûlerai la moindre goutte de votre sang immonde",
+          "desc": "<style=\"highlight\">+1 de Puissance de Pièce pour chaque 6 [Combustion] sur la cible (2 max)</style>\nLes Pièces qui consomment du [FirePunchFuel] infligent +<style=\"highlight\">15</style>% de dégâts supplémentaires\n- Lorsqu’en état de [FirePunchFuelOverheated], inflige +<style=\"highlight\">30</style>% de dégâts supplémentaires à la place",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Consomme 10 [FirePunchFuel] et inflige <style=\"highlight\">2</style> [Combustion] à 2 ennemis avec le moins d’Intensité de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">+2</style> de Compte de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Consomme 10 [FirePunchFuel] et inflige +1 de Compte de [Combustion] à 2 ennemis avec le moins de Compte de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Poing de Feu",
+          "desc": "Si la cible a 3 de Compte de [Combustion] ou plus, +1 de Puissance de Pièce\n[WhenUse] +1 de Puissance de Base pour chaque 6 [Combustion] sur la cible (2 max)\n[WhenUse] Consomme jusqu’à 25 [FirePunchFuel] et inflige +1% de dégâts supplémentaires pour chaque [FirePunchFuel] consommé (25% max)\n- Lorsqu’en état de [FirePunchFuelOverheated], inflige +3% de dégâts supplémentaires pour chaque [FirePunchFuel] consommé à la place (75% max)\n[EndSkill] Si la cible est vaincue, ou si cette Capacité a consommé du [FirePunchFuel], gagne 1 [HitDamageUp] au prochain tour",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si cette unité a consommé du [FirePunchFuel], inflige 1 [Combustion] et +1 de Compte de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si cette unité a consommé du [FirePunchFuel], inflige 1 [Combustion] et +1 de Compte de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1% de dégâts supplémentaires pour chaque [FirePunchFuel] consommé par cette Capacité (25% max)\n- Lorsqu’en état de [FirePunchFuelOverheated], inflige +3% de dégâts supplémentaires pour chaque [FirePunchFuel] consommé à la place (75% max)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Poing de Feu",
+          "desc": "<style=\"highlight\">+1 de Puissance de Pièce pour chaque 3 de Compte de [Combustion] sur la cible (2 max)</style>\n[WhenUse] +1 de Puissance de Base pour chaque 6 [Combustion] sur la cible (<style=\"highlight\">3</style> max)\n[WhenUse] Consomme jusqu’à 25 [FirePunchFuel] et inflige +<style=\"highlight\">2</style>% de dégâts supplémentaires pour chaque [FirePunchFuel] consommé (<style=\"highlight\">50</style>% max)\n- Lorsqu’en état de [FirePunchFuelOverheated], inflige +<style=\"highlight\">4</style>% de dégâts supplémentaires pour chaque [FirePunchFuel] consommé (<style=\"highlight\">100</style>% max)\n[EndSkill] Si la cible est vaincue, ou si cette Capacité a consommé du [FirePunchFuel], gagne <style=\"highlight\">2</style> [HitDamageUp] au prochain tour",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si cette unité a consommé du [FirePunchFuel], inflige <style=\"highlight\">2</style> [Combustion] et +1 de Compte de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si cette unité a consommé du [FirePunchFuel], inflige <style=\"highlight\">2</style> [Combustion] et +1 de Compte de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">2</style>% de dégâts supplémentaires pour chaque [FirePunchFuel] consommé par cette Capacité (<style=\"highlight\">50</style>% max)\n- Lorsqu’en état de [FirePunchFuelOverheated], inflige +<style=\"highlight\">4</style>% de dégâts supplémentaires pour chaque [FirePunchFuel] consommé à la place (<style=\"highlight\">100</style>% max)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Je dois continuer pour grande sœur",
+          "desc": "[DuelCounter]\n[StartBattle] Gagne 100 [FirePunchFuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Je dois continuer pour grande sœur",
+          "desc": "[DuelCounter]\n[StartBattle] Gagne 100 [FirePunchFuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "dataList": [
+    {
+      "id": 2080511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Obsession Aveugle",
+          "abName": "Courantlimon Dévo’Rêve",
+          "desc": "[EndSkill] Rend 15 PSM à 4 alliés avec le moins de PSM",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne +3 de Compte de Charge"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Donne +1 de Compte de Calme à 1 allié aléatoire"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Obsession Aveugle",
+          "abName": "Courantlimon Dévo’Rêve",
+          "desc": "[EndSkill] Rend 20 PSM à 4 alliés avec le moins de PSM",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne +4 de Compte de Charge"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Donne +1 de Compte de Calme à 1 allié aléatoire"
+                },
+                {
+                  "desc": "[EndSkillHead] Applique 1 [PenetrateResultUp] et 1 [AttackDmgUp] à 4 alliés avec le plus de PSM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Obsession Aveugle",
+          "abName": "Courantlimon Dévo’Rêve",
+          "desc": "[EndSkill] Rend 25 PSM à 4 alliés avec le moins de PSM",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +6 de Compte de Charge"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Donne +2 de Compte de Calme à 1 allié aléatoire"
+                },
+                {
+                  "desc": "[EndSkill] Applique 2 [PenetrateResultUp] et 2 [AttackDmgUp] à 4 alliés avec le plus de PSM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Obsession Aveugle",
+          "abName": "Courantlimon Dévo’Rêve",
+          "desc": "[CantIdentify]\nCible aléatoirement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Calme et +1 de Compte de Calme"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Vulnérabilité d’Orgueil ce tour et le tour suivant"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Obsession Aveugle",
+          "abName": "Courantlimon Dévo’Rêve",
+          "desc": "[CantIdentify]\nCible aléatoirement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Se soigne de 3% des PV Max."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Calme et +1 de Compte de Calme"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Vulnérabilité d’Orgueil ce tour et le tour suivant"
+                },
+                {
+                  "desc": "[EndSkillTail] Applique 2 Bonus de Dégâts à 4 alliés avec le moins de PSM ce tour et le tour suivant"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Obsession Aveugle",
+          "abName": "Courantlimon Dévo’Rêve",
+          "desc": "[CantIdentify]\nCible aléatoirement",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Se soigne de 3% des PV Max."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 Calme et +1 de Compte de Calme"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Vulnérabilité d’Orgueil ce tour et le tour suivant"
+                },
+                {
+                  "desc": "[EndSkill] Applique 2 Bonus de Dégâts à 4 alliés avec le moins de PSM ce tour et le tour suivant"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Battement d’Aile",
+          "abName": "Festival des Fées",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Se soigne de 15% des PV Max sur soi"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Perd 1~2 PSM"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Réutilise cette Pièce (5 fois par Capacité)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Se soigne de 4~8% des dégâts infligés"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [ShamrockTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1~3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Battement d’Aile",
+          "abName": "Festival des Fées",
+          "desc": "Si le soin de cette Capacité excède les PV Max de cette unité, redirige le soin en excès sur 1 allié avec le moins de pourcentage de PV à la place",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Se soigne de <style=\"highlight\">18</style>% des PV Max sur soi"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Perd 1~2 PSM"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Réutilise cette Pièce (5 fois par Capacité)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Se soigne de <style=\"highlight\">6~10</style>% des dégâts infligés"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [ShamrockTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1~3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Battement d’Aile",
+          "abName": "Festival des Fées",
+          "desc": "Si le soin de cette Capacité excède les PV Max de cette unité, redirige le soin en excès sur 1 allié avec le moins de pourcentage de PV à la place",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Se soigne de <style=\"highlight\">20</style>% des PV Max sur soi"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Perd 1~2 PSM"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Réutilise cette Pièce (5 fois par Capacité)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Se soigne de <style=\"highlight\">8~12</style>% des dégâts infligés"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [ShamrockTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1~<style=\"highlight\">4</style> de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Battement d’Aile",
+          "abName": "Festival des Fées",
+          "desc": "[CantIdentify]\nCible l’unité avec le moins de PV de Noyau\n[BeforeAttack] Inflige 5% de dégâts de PV à 5 autres alliés aléatoires maximum\n- Se soigne d’autant de PV que de dégâts infligés aux alliés.\n- Si cette unité inflige des dégâts à un allié, gagne 2 [Enhancement] ce tour et 2 [Agility] au prochain tour.\n(Une fois par tour. Les 'dégâts infligés' incluent les dégâts infligés à des PV de Bouclier. Cet effet peut tuer des alliés.)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Se soigne de 10% des dégâts infligés"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 1~4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Battement d’Aile",
+          "abName": "Festival des Fées",
+          "desc": "[CantIdentify]\nCible l’unité avec le moins de PV de Noyau\n<style=\"highlight\">[BeforeAttack] Gagne (# de plus grande Réson. -2) de Poids d’Atq (1 max)</style>\n[BeforeAttack] Inflige 5% de dégâts de PV à 5 autres alliés aléatoires maximum\n- Se soigne d’autant de PV que de dégâts infligés aux alliés.\n- Si cette unité inflige des dégâts à un allié, gagne 2 [Enhancement] ce tour et 2 [Agility] au prochain tour.\n(Une fois par tour. Les 'dégâts infligés' incluent les dégâts infligés à des PV de Bouclier. Cet effet peut tuer des alliés.)\n<style=\"highlight\">[EndSkill] Si le soin de cette Capacité excède les PV max de cette unité, gagne (soin en excès/PV Max) * 10 [AttackUp] au prochain tour. (3 max par tour)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Se soigne de <style=\"highlight\">15</style>% des dégâts infligés"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige <style=\"highlight\">2~5</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Battement d’Aile",
+          "abName": "Festival des Fées",
+          "desc": "[CantIdentify]\nCible l’unité avec le moins de PV de Noyau\n[BeforeAttack] Gagne (# de plus grande Réson. -2) de Poids d’Atq (<style=\"highlight\">2</style> max)\n[BeforeAttack] Inflige 5% de dégâts de PV à 5 autres alliés aléatoires maximum\n- Se soigne d’autant de PV que de dégâts infligés aux alliés.\n- Si cette unité inflige des dégâts à un allié, gagne 2 [Enhancement] ce tour et 2 [Agility] au prochain tour.\n(Une fois par tour. Les 'dégâts infligés' incluent les dégâts infligés à des PV de Bouclier. Cet effet peut tuer des alliés.)\n[EndSkill] Si le soin de cette Capacité excède les PV max de cette unité, gagne (soin en excès/PV Max) * 10 [AttackUp] au prochain tour. (<style=\"highlight\">6</style> max par tour)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Se soigne de <style=\"highlight\">20</style>% des dégâts infligés"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige <style=\"highlight\">3~6</style> [Laceration]"
+                },
+                {
+                  "desc": "[EnemyKill] Gagne 1 [Enhancement] au prochain tour (3 max)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jours d’Antan",
+          "abName": "Portrait d’un Certain Jour",
+          "desc": "[BeforeAttack] À 4 de plus haute Réson. ou plus, gagne +1 de Poids d’Atq\n[EndSkill] Rend (5 + (somme de l’Intensité et du Compte de [Sinking] sur la cible principale)/3)% de PV aux 2 alliés avec les plus bas pourcentage de PV (15% max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [UninvitedGuestPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Jours d’Antan",
+          "abName": "Portrait d’un Certain Jour",
+          "desc": "[BeforeAttack] À 4 de plus haute Réson. ou plus, gagne +1 de Poids d’Atq\n<style=\"highlight\">- Si cette Réson. était une Réson. de Peine, gagne +1 de Poids d’Atq</style>\n[EndSkill] Rend (<style=\"highlight\">10</style> + (somme de l’Intensité et du Compte de [Sinking] sur la cible principale)/3)% de PV aux 2 alliés avec les plus bas pourcentage de PV (15% max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Curse]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] À Réson. de Peine de 4 ou plus, inflige 1 [AzureTakeDamageUp]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [UninvitedGuestPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Jours d’Antan",
+          "abName": "Portrait d’un Certain Jour",
+          "desc": "[BeforeAttack] À 4 de plus haute Réson. ou plus, gagne +1 de Poids d’Atq\n- Si cette Réson. était une Réson. de Peine, gagne +1 de Poids d’Atq\n[EndSkill] Rend (10 + (somme de l’Intensité et du Compte de [Sinking] sur la cible principale)/3)% de PV aux 2 alliés avec les plus bas pourcentage de PV (<style=\"highlight\">20</style>% max)\n<style=\"highlight\">- Si la plus haute Réson. était une Réson. de Peine de 4 ou plus, soigne 10% supplémentaire des PV max</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">+3</style> de Compte de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] À Réson. de Peine de 4 ou plus, inflige 1 [AzureTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [UninvitedGuestPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jours d’Antan",
+          "abName": "Portrait d’un Certain Jour",
+          "desc": "[CantIdentify]\nPriorise les cibles avec le plus de [Sinking]\n[BeforeAttack] Perd 10% de ses PV Max en PV (ne peut pas être Déséquilibrée suite à cet effet)\n[EndSkill] Rend (5 + (somme de l’Intensité et du Compte de [Sinking] sur la cible principale)/3)% de PV aux 3 alliés avec les plus bas pourcentage de PV (10% max)\n- À 4 de plus haute Réson. ou plus, soigne 1 allié supplémentaire",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] À Réson. de Peine de 3 ou plus, inflige 1 [AzureTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [UninvitedGuestPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Jours d’Antan",
+          "abName": "Portrait d’un Certain Jour",
+          "desc": "[CantIdentify]\nPriorise les cibles avec le plus de [Sinking]\n[BeforeAttack] Perd 10% de ses PV Max en PV (ne peut pas être Déséquilibrée suite à cet effet)\n[EndSkill] Rend (<style=\"highlight\">10</style> + (somme de l’Intensité et du Compte de [Sinking] sur la cible principale)/3)% de PV aux 3 alliés avec les plus bas pourcentage de PV (<style=\"highlight\">15</style>% max)\n- À 4 de plus haute Réson. ou plus, soigne 1 allié supplémentaire",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] À Réson. de Peine de 3 ou plus, inflige 1 [AzureTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [UninvitedGuestPersonality]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [EchoOfMansion] au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Jours d’Antan",
+          "abName": "Portrait d’un Certain Jour",
+          "desc": "[CantIdentify]\nPriorise les cibles avec le plus de [Sinking]\n[BeforeAttack] Perd 10% de ses PV Max en PV (ne peut pas être Déséquilibrée suite à cet effet)\n[EndSkill] Rend (10 + (somme de l’Intensité et du Compte de [Sinking] sur la cible principale)/3)% de PV aux 3 alliés avec les plus bas pourcentage de PV (15% max)\n- À 4 de plus haute Réson. ou plus, soigne 1 allié supplémentaire\n<style=\"highlight\">- Si cette Réson. était une Réson. de Peine, soigne 5% de PV supplémentaire</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">+3</style> de Compte de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">Pour chaque 3 de </style> Réson. de Peine, inflige 1 [AzureTakeDamageUp] <style=\"highlight\">(2 max)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [UninvitedGuestPersonality]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [EchoOfMansion] au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cauchemar de Noël",
+          "abName": "Lit Douillet",
+          "desc": "[BeforeAttack] Gagne (plus haute Réson. +5) de Compte de [Vibration] (10 max)\n[EndSkill] Si une cible est Déséquilibrée, en Bas Moral ou dans un état de Panique, regagne 10 PSM",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +5 de Compte de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion] ; puis, réduit le Compte de [Vibration] de la cible de 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cauchemar de Noël",
+          "abName": "Lit Douillet",
+          "desc": "<style=\"highlight\">Si la cible a moins de 0 PSM, inflige +1% de dégâts supplémentaires pour chaque PSM en-dessous de 0 (45% max)</style>\n[BeforeAttack] Gagne (plus haute Réson. +5) de Compte de [Vibration] (10 max)\n[EndSkill] Si une cible est Déséquilibrée, en Bas Moral ou dans un état de Panique, regagne 10 PSM",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +5 de Compte de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible n’est pas Déséquilibrée, en Bas Moral ou dans un état de Panique, inflige 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible n’est pas Déséquilibrée, en Bas Moral ou dans un état de Panique, déclenche un [VibrationExplosion] ; puis, réduit le Compte de [Vibration] de la cible de 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion] ; puis, réduit le Compte de [Vibration] de la cible de 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cauchemar de Noël",
+          "abName": "Lit Douillet",
+          "desc": "Si la cible a moins de 0 PSM, inflige +1% de dégâts supplémentaires pour chaque PSM en-dessous de 0 (45% max)\n[BeforeAttack] Gagne (plus haute Réson. +5) de Compte de [Vibration] (10 max)\n[EndSkill] Si une cible est Déséquilibrée, en Bas Moral ou dans un état de Panique, regagne 10 PSM",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +5 de Compte de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible n’est pas Déséquilibrée, en Bas Moral ou dans un état de Panique, inflige 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible n’est pas Déséquilibrée, en Bas Moral ou dans un état de Panique, déclenche un [VibrationExplosion] <style=\"highlight\">deux fois</style> ; puis, réduit le Compte de [Vibration] de la cible de 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion] ; puis, réduit le Compte de [Vibration] de la cible de 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cauchemar de Noël",
+          "abName": "Lit Douillet",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] Gagne (plus haute Réson. +5) de Compte de [Vibration] (10 max)\n[BeforeAttack] Regagne 10 PV",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +5 de Compte de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion] ; puis, réduit le Compte de [Vibration] de la cible de 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion] ; puis, réduit le Compte de [Vibration] de la cible de 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cauchemar de Noël",
+          "abName": "Lit Douillet",
+          "desc": "[CantIdentify]\nCible aléatoirement\n<style=\"highlight\">Si la cible principale est Déséquilibrée, en Bas Moral ou dans un état de Panique, +1 de Puissance de Base</style>\n[BeforeAttack] Gagne (plus haute Réson. +5) de Compte de [Vibration] (10 max)\n[BeforeAttack] Regagne 10 PV\n<style=\"highlight\">[EndSkill] Regagne 5 PSM pour chaque ennemi Déséquilibré, en Bas Moral ou dans un état de Panique</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +5 de Compte de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible n’est pas Déséquilibrée, en Bas Moral ou dans un état de Panique, inflige 5 [Sinking] et +2 de Compte de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion] ; puis, réduit le Compte de [Vibration] de la cible de 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible n’est pas Déséquilibrée, en Bas Moral ou dans un état de Panique, déclenche un [VibrationExplosion] ; puis, réduit le Compte de [Vibration] de la cible de 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion] ; puis, réduit le Compte de [Vibration] de la cible de 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cauchemar de Noël",
+          "abName": "Lit Douillet",
+          "desc": "[CantIdentify]\nCible aléatoirement\nSi la cible principale est Déséquilibrée, en Bas Moral ou dans un état de Panique, +<style=\"highlight\">2</style> de Puissance de Base\n[BeforeAttack] Gagne (plus haute Réson. +5) de Compte de [Vibration] (10 max)\n[BeforeAttack] Regagne 10 PV\n[EndSkill] Regagne 5 PSM pour chaque ennemi Déséquilibré, en Bas Moral ou dans un état de Panique",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +5 de Compte de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible n’est pas Déséquilibrée, en Bas Moral ou dans un état de Panique, inflige 5 [Sinking] et +2 de Compte de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible n’est pas Déséquilibrée, en Bas Moral ou dans un état de Panique, déclenche un [VibrationExplosion] ; puis, réduit le Compte de [Vibration] de la cible de 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion] ; puis, réduit le Compte de [Vibration] de la cible de 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible n’est pas Déséquilibrée, en Bas Moral ou dans un état de Panique, déclenche un [VibrationExplosion] ; puis, réduit le Compte de [Vibration] de la cible de 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion] ; puis, réduit le Compte de [Vibration] de la cible de 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

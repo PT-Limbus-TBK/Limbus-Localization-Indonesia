@@ -1,0 +1,560 @@
+{
+  "dataList": [
+    {
+      "id": 2110511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Festivité",
+          "abName": "Père Rudolphe",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement"
+                },
+                {
+                  "desc": "[EndSkill] Applique 1 'Bonus de Dégâts' pour l’Affinité avec le plus grand compte de Résonance à 2 alliés avec le moins de PSM"
+                },
+                {
+                  "desc": "[EndSkill] Rend 20 PSM à 2 alliés avec le moins de PSM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Festivité",
+          "abName": "Père Rudolphe",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement"
+                },
+                {
+                  "desc": "[EndSkill] Applique 1 'Bonus de Dégâts' pour l’Affinité avec le plus grand compte de Résonance à 3 alliés avec le moins de PSM"
+                },
+                {
+                  "desc": "[EndSkill] Rend 20 PSM à 3 alliés avec le moins de PSM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Festivité",
+          "abName": "Père Rudolphe",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement"
+                },
+                {
+                  "desc": "[EndSkill] Applique 1 'Bonus de Dégâts' pour l’Affinité avec le plus grand compte de Résonance à 4 alliés avec le moins de PSM"
+                },
+                {
+                  "desc": "[EndSkill] Rend 20 PSM à 4 alliés avec le moins de PSM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Festivité",
+          "abName": "Père Rudolphe",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] Cette unité perd 10% de PV",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] La cible perd 10 PSM"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 1 Vulnérabilité à l’Affinité avec le plus grand compte de Résonance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Festivité",
+          "abName": "Père Rudolphe",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] Cette unité perd 10% de PV",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] La cible perd 10 PSM"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 2 Vulnérabilité à l’Affinité avec le plus grand compte de Résonance"
+                },
+                {
+                  "desc": "[EndSkillTail] Gagne 1 'Bonus de Dégâts' pour l’Affinité avec le plus grand compte de Résonance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Festivité",
+          "abName": "Père Rudolphe",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] Cette unité perd 10% de PV",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] La cible perd 10 PSM"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un Sursaut de Tremblement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Vulnérabilité à l’Affinité avec le plus grand compte de Résonance"
+                },
+                {
+                  "desc": "[EndSkillTail] Gagne 1 'Bonus de Dégâts' pour l’Affinité avec le plus grand compte de Résonance"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Attaches",
+          "abName": "Le Roi Attaché",
+          "desc": "[BeforeAttack] Gagne (plus grande Réson. d’Orgueil ou de Paresse - 2) Poids d’Atq (2 max)\n[EndSkill] Pendant 3 tours, perd 10 PSM à la Fin du Tour",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche une [Switch_Vibration] en [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Attaches",
+          "abName": "Le Roi Attaché",
+          "desc": "[BeforeAttack] Gagne (plus grande Réson. d’Orgueil ou de Paresse - 2) Poids d’Atq (2 max)\nLa quantité de Seuil de Déséquilibre augmenté par [VibrationExplosion] augmente de 50%\n[EndSkill] Pendant 3 tours, perd 9 PSM à la Fin du Tour",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche une [Switch_Vibration] en [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Attaches",
+          "abName": "Le Roi Attaché",
+          "desc": "[BeforeAttack] Gagne (plus grande Réson. d’Orgueil ou de Paresse - 2) Poids d’Atq (2 max)\nLa quantité de Seuil de Déséquilibre augmenté par [VibrationExplosion] augmente de 100%\n[EndSkill] Pendant 3 tours, perd 8 PSM à la Fin du Tour",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche une [Switch_Vibration] en [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Attaches",
+          "abName": "Le Roi Attaché",
+          "desc": "[CantIdentify]\nCible Aléatoirement\n[BeforeAttack] Gagne (plus grande Réson. d’Orgueil ou de Paresse - 2) Poids d’Atq (2 max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche une [Switch_Vibration] en [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Attaches",
+          "abName": "Le Roi Attaché",
+          "desc": "[CantIdentify]\nCible Aléatoirement\n[BeforeAttack] Gagne (plus grande Réson. d’Orgueil ou de Paresse - 2) Poids d’Atq (2 max)\nLa quantité de Seuil de Déséquilibre augmenté par [VibrationExplosion] augmente de 50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche une [Switch_Vibration] en [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Déclenche un [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Attaches",
+          "abName": "Le Roi Attaché",
+          "desc": "[CantIdentify]\nCible Aléatoirement\n[BeforeAttack] Gagne (plus grande Réson. d’Orgueil ou de Paresse - 2) Poids d’Atq (2 max)\nLa quantité de Seuil de Déséquilibre augmenté par [VibrationExplosion] augmente de 50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Compte de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche une [Switch_Vibration] en [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Déclenche un [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Déclenche un [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Déclenche un [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Broyeur à Dimension",
+          "abName": "Passager Égaré",
+          "desc": "[BeforeAttack] À 4 de plus haute Réson. ou plus, gagne +1 Poids d’Atq\n[BeforeAttack] À moins de 10 de Compte de [Charge], consomme 15% des PV pour gagner +10 de Compte de [Charge] (ces dégâts ne réduisent pas les PV de cette unité à 0 ; arrondi à l’inférieur)\n[BeforeAttack] Consomme jusqu’à 40 de Compte de [Charge] et inflige +1% de dégâts supplémentaires par Compte de [Charge] consommé (10% max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige ([Charge] - 1) [DimensionRift] (1 max)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [Agility] et 1 [ChargeLoad] au prochain tour pour chaque [Charge] (1 max de chaque par Capacité)"
+                },
+                {
+                  "desc": "[EnemyKill] Gagne +2 de Compte de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Broyeur à Dimension",
+          "abName": "Passager Égaré",
+          "desc": "[BeforeAttack] À <style=\"highlight\">3</style>+ de plus haute Réson., gagne +1 Poids d’Atq\n[BeforeAttack] À moins de 10 de Compte de [Charge], consomme 15% des PV pour gagner +10 de Compte de [Charge] (ces dégâts ne réduisent pas les PV de cette unité à 0 ; arrondi à l’inférieur)\n[BeforeAttack] Consomme jusqu’à 40 de Compte de [Charge] et inflige +1% de dégâts supplémentaires par Compte de [Charge] consommé (<style=\"highlight\">20</style>% max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige ([Charge] - 1) [DimensionRift] (<style=\"highlight\">2</style> max)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [Agility] et 1 [ChargeLoad] au prochain tour pour chaque [Charge] (<style=\"highlight\">2</style> max de chaque par Capacité)"
+                },
+                {
+                  "desc": "[EnemyKill] Gagne +2 de Compte de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Broyeur à Dimension",
+          "abName": "Passager Égaré",
+          "desc": "[BeforeAttack] Gagne <style=\"highlight\">(plus haute Réson. - 2)</style> Poids d’Atq <style=\"highlight\">(2 max)</style>\n[BeforeAttack] À moins de 10 de Compte de [Charge], consomme <style=\"highlight\">10</style>% des PV pour gagner +10 de Compte de [Charge] (ces dégâts ne réduisent pas les PV de cette unité à 0 ; arrondi à l’inférieur)\n[BeforeAttack] Consomme jusqu’à 40 de Compte de [Charge] et inflige +1% de dégâts supplémentaires par Compte de [Charge] consommé (<style=\"highlight\">30</style>% max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige ([Charge] - 1) [DimensionRift] (2 max)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [Agility] et 1 [ChargeLoad] au prochain tour pour chaque [Charge] (<style=\"highlight\">3</style> max de chaque par Capacité)"
+                },
+                {
+                  "desc": "[EnemyKill] Gagne +2 de Compte de [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Broyeur à Dimension",
+          "abName": "Passager Égaré",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] À 4 de plus haute Réson. ou plus, gagne +1 Poids d’Atq\n[BeforeAttack] À moins du maximum de Compte de [Charge], consomme (Compte de [Charge] manquant * 1.5)% de PV pour gagner jusqu’au Compte de [Charge] max (Compte de [Charge] max obtenable par cet effet : 30. Ces dégâts ne réduisent pas les PV de cette unité à 0 ; arrondi à l’inférieur)\n[BeforeAttack] Consomme jusqu’à 40 de Compte de [Charge] et inflige +2% de dégâts supplémentaires pour chaque Compte de [Charge] consommé (20% max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige ([Charge] - 1) [DimensionRift] (2 max)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [Agility] et 1 [ChargeLoad] au prochain tour pour chaque [Charge] (2 max de chaque par Capacité)"
+                },
+                {
+                  "desc": "[EnemyKill] Gagne +2 de Compte de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Broyeur à Dimension",
+          "abName": "Passager Égaré",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] À 4 de plus haute Réson. ou plus, gagne +1 Poids d’Atq\n[BeforeAttack] À moins du maximum de Compte de [Charge], consomme (Compte de [Charge] manquant * <style=\"highlight\">1.2</style>)% de PV pour gagner jusqu’au Compte de [Charge] max (Compte de [Charge] max obtenable par cet effet : 30. Ces dégâts ne réduisent pas les PV de cette unité à 0 ; arrondi à l’inférieur)\n[BeforeAttack] Consomme jusqu’à 40 de Compte de [Charge] et inflige +2% de dégâts supplémentaires pour chaque Compte de [Charge] consommé (<style=\"highlight\">40</style>% max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige ([Charge] - 1) [DimensionRift] (2 max)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [Agility] et 1 [ChargeLoad] au prochain tour pour chaque [Charge] (2 max de chaque par Capacité)"
+                },
+                {
+                  "desc": "[EnemyKill] Gagne +2 de Compte de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Broyeur à Dimension",
+          "abName": "Passager Égaré",
+          "desc": "[CantIdentify]\nCible aléatoirement\n[BeforeAttack] Gagne <style=\"highlight\">(plus haute Réson. - 2)</style> Poids d’Atq <style=\"highlight\">(2 max)</style>\n[BeforeAttack] À moins du maximum de Compte de [Charge], consomme <style=\"highlight\">(Compte de [Charge] manquant)%</style> de PV pour gagner jusqu’au Compte de [Charge] max (Compte de [Charge] max obtenable par cet effet : 30. Ces dégâts ne réduisent pas les PV de cette unité à 0 ; arrondi à l’inférieur)\n[BeforeAttack] Consomme jusqu’à 40 de Compte de [Charge] et inflige +2% de dégâts supplémentaires pour chaque Compte de [Charge] consommé (<style=\"highlight\">60</style>% max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige ([Charge] - 1) [DimensionRift] (<style=\"highlight\">4</style> max)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [Agility] et 1 [ChargeLoad] au prochain tour pour chaque [Charge] (<style=\"highlight\">3</style> max de chaque par Capacité)"
+                },
+                {
+                  "desc": "[EnemyKill] Gagne +2 de Compte de [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tir Enchanté",
+          "abName": "Der Freischütz",
+          "desc": "Inflige +1% de dégâts supplémentaires pour chaque 3 [Combustion] sur la cible (10% max)\n[BeforeAttack] À 0 [FreischutzShotCount], gagne 1 [FreischutzShotCount].\n- La valeur de [FreischutzShotCount] détermine la balle à tirer.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gagne autant de [FreischutzShotCount] que de plus haute Réson. (1 min., 4 max)\n[EndSkill] Si la cible principale est vaincue, inflige 2 [DarkFlame] à tous les ennemis avec [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige autant de [Combustion] que de [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige autant de [DarkFlame] que de [FreischutzShotCount] (une fois par tour pour chaque unité)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tir Enchanté",
+          "abName": "Der Freischütz",
+          "desc": "Inflige +<style=\"highlight\">2</style>% de dégâts supplémentaires pour chaque 3 [Combustion] sur la cible (<style=\"highlight\">20</style>% max)\n[BeforeAttack] À 0 [FreischutzShotCount], gagne 1 [FreischutzShotCount].\n- La valeur de [FreischutzShotCount] détermine la balle à tirer.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gagne autant de [FreischutzShotCount] que de plus haute Réson. (1 min., 4 max)\n[EndSkill] Si la cible principale est vaincue, inflige <style=\"highlight\">3</style> de [DarkFlame] à tous les ennemis avec [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige autant de [Combustion] que de [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige autant de [DarkFlame] que de [FreischutzShotCount] (une fois par tour pour chaque unité)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tir Enchanté",
+          "abName": "Der Freischütz",
+          "desc": "Inflige +<style=\"highlight\">3</style>% de dégâts supplémentaires pour chaque 3 [Combustion] sur la cible (<style=\"highlight\">30</style>% max)\n[BeforeAttack] À 0 [FreischutzShotCount], gagne 1 [FreischutzShotCount].\n- La valeur de [FreischutzShotCount] détermine la balle à tirer.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gagne autant de [FreischutzShotCount] que de plus haute Réson. (1 min., 4 max)\n[EndSkill] Si la cible principale est vaincue, inflige <style=\"highlight\">4</style> [DarkFlame] à tous les ennemis avec [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige autant de [Combustion] que de [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige autant de [DarkFlame] que de [FreischutzShotCount] (une fois par tour pour chaque unité)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tir Enchanté",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nCible aléatoirement\nInflige +1% de dégâts supplémentaires pour chaque 3 [Combustion] sur la cible (10% max)\n[BeforeAttack] À 0 [FreischutzShotCount], gagne 1 [FreischutzShotCount].\n- La valeur de [FreischutzShotCount] détermine la balle à tirer.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gagne autant de [FreischutzShotCount] que de plus haute Réson. (1 min., 4 max)\n[EndSkill] Si la cible principale est vaincue, inflige 3 [DarkFlame] à tous les ennemis avec [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige autant de [Combustion] que de [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige autant de [DarkFlame] que de [FreischutzShotCount] (une fois par tour pour chaque unité)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tir Enchanté",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nCible aléatoirement\nInflige +<style=\"highlight\">2</style>% de dégâts supplémentaires pour chaque 3 [Combustion] sur la cible (<style=\"highlight\">20</style>% max)\n[BeforeAttack] À 0 [FreischutzShotCount], gagne 1 [FreischutzShotCount].\n- La valeur de [FreischutzShotCount] détermine la balle à tirer.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gagne autant de [FreischutzShotCount] que de plus haute Réson. (1 min., 4 max)\n[EndSkill] Si la cible principale est vaincue, inflige <style=\"highlight\">5</style> [DarkFlame] à tous les ennemis avec [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige autant de [Combustion] que de [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +([FreischutzShotCount] / 3) de Compte de [Combustion] (arrondi à l’inférieur)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige autant de [DarkFlame] que de [FreischutzShotCount] (une fois par tour pour chaque unité)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tir Enchanté",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nCible aléatoirement\nInflige +<style=\"highlight\">3</style>% de dégâts supplémentaires pour chaque 3 [Combustion] sur la cible (<style=\"highlight\">30</style>% max)\n[BeforeAttack] À 0 [FreischutzShotCount], gagne 1 [FreischutzShotCount].\n- La valeur de [FreischutzShotCount] détermine la balle à tirer.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gagne autant de [FreischutzShotCount] que de plus haute Réson. (1 min., 4 max)\n[EndSkill] Si la cible principale est vaincue, inflige <style=\"highlight\">7</style> [DarkFlame] à tous les ennemis avec [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige autant de [Combustion] que de [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +([FreischutzShotCount] / <style=\"highlight\">2</style>) de Compte de [Combustion] (arrondi à l’inférieur)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige autant de [DarkFlame] que de [FreischutzShotCount] (une fois par tour pour chaque unité)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

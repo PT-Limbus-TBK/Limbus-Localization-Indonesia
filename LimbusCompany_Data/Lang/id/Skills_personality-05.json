@@ -1,0 +1,1148 @@
+{
+  "dataList": [
+    {
+      "id": 1050701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nous Nous Souvenons",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Saignement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Nous Nous Souvenons",
+          "desc": "[DefeatDuel] Gagne 1 Bonus de DGT d’Envie au prochain tour",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nous Nous Souvenons",
+          "desc": "[DefeatDuel] Gagne 1 Bonus de DGT d’Envie au prochain tour",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chaînes de Loyauté",
+          "desc": "[StartBattle] Applique 1 Bonus de Puissance d’Envie à 2 alliés adjacents à cette unité sur le Tableau de Bord.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Saignement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Chaînes de Loyauté",
+          "desc": "[StartBattle] Applique 1 Bonus de Puissance d’Envie à 2 alliés adjacents à cette unité sur le Tableau de Bord.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chaînes de Loyauté",
+          "desc": "[StartBattle] Applique 1 Bonus de Puissance d’Envie à 2 alliés adjacents à cette unité sur le Tableau de Bord\nApplique également 1 Bonus de DGT d’Envie en sélectionnant des Capacités d’affinité d’Envie sur les Emplacements de Capacités affectés",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Enregistrement",
+          "desc": "À 4 de Réson. d’Envie ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a Marque de Vengeance, inflige 1 Malus de Puissance de Pièce Positive au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a Marque de Vengeance, inflige 1 Vulnérabilité d’Envie au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Enregistrement",
+          "desc": "À 4 de Réson. d’Envie ou plus, +1 de Puissance de Pièce\nÀ 6 de Réson.-A ou plus d’Envie, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a Marque de Vengeance, inflige 1 Malus de Puissance de Pièce Positive au prochain tour"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a Marque de Vengeance, inflige 2 Vulnérabilité d’Envie au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Punition Multiple",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Saignement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Punition Multiple",
+          "desc": "À 4 de Réson. d’Envie ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Saignement"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dégainer l’Épée",
+          "desc": "[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Dégainer l’Épée",
+          "desc": "<style=\"highlight\">[StartBattle] Applique 1 d’[BladeResultUpTier1] à (plus grande Réson.-A) autres alliés de la Lignée de la Lame par ordre ascendant de Vitesse (du plus lent au plus rapide, 2 fois max)\n</style>[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Dégainer l’Épée",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Applique 1 d’[BladeResultUpTier1] à (plus grande Réson.-A) autres alliés de la Lignée de la Lame par ordre ascendant de Vitesse (du plus lent au plus rapide, 2 fois max)</color>\n[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dégainer l’Épée",
+          "desc": "<style=\"highlight\">À 5 [Breath] ou plus, +1 de Puissance de Pièce</style>\n[StartBattle] Applique 1 d’[BladeResultUpTier1] à (plus grande Réson.-A) autres alliés de la Lignée de la Lame par ordre ascendant de Vitesse (du plus lent au plus rapide, 2 fois max)\n<style=\"highlight\">- S’il y a 6 Identités alliées ou plus de la Lignée de la Lame dans l’Affrontement, en applique 2</style>\n[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Acupuncture",
+          "desc": "[WhenUse] Gagne +2 de Compte de [Breath]\n[WinDuel] Gagne 1 Bonus de Puissance Tranchante au prochain tour",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gagne 3 [Breath]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+30% de Dégâts en Coup Critique"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Acupuncture",
+          "desc": "<style=\"highlight\">[StartBattle] Applique 1 d’[BladeResultUpTier2] à (plus grande Réson.-A) autres alliés de la Lignée de la Lame par ordre ascendant de Vitesse (du plus lent au plus rapide, 2 fois max)</style>\n[WhenUse] Gagne +2 de Compte de [Breath]\n[WinDuel] Gagne 1 Bonus de Puissance Tranchante au prochain tour",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 3 [Breath]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+40% de Dégâts en Coup Critique"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Acupuncture",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Applique 1 d’[BladeResultUpTier2] à (plus grande Réson.-A) autres alliés de la Lignée de la Lame par ordre ascendant de Vitesse (du plus lent au plus rapide, 2 fois max)</color>\n[WhenUse] Gagne +2 de Compte de [Breath]\n[WinDuel] Gagne 1 Bonus de Puissance Tranchante au prochain tour",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 3 [Breath]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+40% de Dégâts en Coup Critique"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Acupuncture",
+          "desc": "<style=\"highlight\">À 7 [Breath] ou plus, +1 de Puissance de Pièce</style>\n[StartBattle] Applique 1 d’[BladeResultUpTier2] à (plus grande Réson.-A) autres alliés de la Lignée de la Lame par ordre ascendant de Vitesse (du plus lent au plus rapide, 2 fois max)\n<style=\"highlight\">- S’il y a 6 Identités alliées ou plus de la Lignée de la Lame dans l’Affrontement, en applique 2</style>\n[WhenUse] Gagne +3 de Compte de [Breath]\n[WinDuel] Gagne 1 Bonus de Puissance Tranchante au prochain tour",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 3 [Breath]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+60% de Dégâts en Coup Critique"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Offrir Ma Chair",
+          "desc": "[WhenUse] Gagne +3 d’Aggro sur cet Emplacement de Capacité au prochain tour\n[WhenUse] Tant que la Capacité n’est pas finie, cette unité ne peut pas être Déséquilibrée en subissant des dégâts\n[WinDuel] Gagne 5 [Breath]\n[DefeatDuel] Après avoir été touché, utilise la Capacité 'Pour Réclamer Leurs Os'\n[CriticalActivated] Inflige +2% de dégâts en Coup Critique pour chaque Intensité de Calme sur soi (50% Max)\n+15% de Dégâts en Coup Critique\nInflige +0.5% de dégâts par 1% de PV manquants sur soi (25% Max)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Offrir Ma Chair",
+          "desc": "[WhenUse] Gagne +3 d’Aggro sur cet Emplacement de Capacité au prochain tour\n[WhenUse] Tant que la Capacité n’est pas finie, cette unité ne peut pas être Déséquilibrée en subissant des dégâts\n[WinDuel] Gagne 5 [Breath]\n[DefeatDuel] Après avoir été touché, utilise la Capacité 'Pour Réclamer Leurs Os'\n[CriticalActivated] Inflige +3% de dégâts en Coup Critique pour chaque Intensité de Calme sur soi (75% Max)\n+30% de Dégâts en Coup Critique\nInflige +0.5% de dégâts par 1% de PV manquants sur soi (25% Max)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Renverser",
+          "desc": "[WhenUse] Gagne 1 Bonus de Puissance Tranchante au prochain tour (1 fois max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Renverser",
+          "desc": "[WhenUse] Gagne 1 Bonus de Puissance Tranchante au prochain tour (1 fois max)\n<style=\"highlight\">Inflige +0.5% de dégâts pour chaque 1% de PV manquants sur soi (25% Max)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pour Réclamer Leurs Os",
+          "desc": "[BeforeAttack] À 10 [Breath] ou plus, +1 de Poids d’Atq\n[WhenUse] Tant que la Capacité n’est pas finie, cette unité ne peut pas être Déséquilibrée en subissant des dégâts\n[WhenUse] Inflige +2% de dégâts en Coup Critique pour chaque Intensité de Calme sur soi (50% Max)\n+20% de Dégâts en Coup Critique\nInflige +0.5% de dégâts pour chaque 1% de PV manquants sur soi (25% Max)",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Saignement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Paralysie au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pour Réclamer Leurs Os",
+          "desc": "<style=\"highlight\">[BeforeAttack] Pour chaque 7 [Breath] sur soi, +1 de Poids d’Atq (+2 Max)</style>\n[WhenUse] Tant que la Capacité n’est pas finie, cette unité ne peut pas être Déséquilibrée en subissant des dégâts\n[WhenUse] Inflige +2% de dégâts en Coup Critique pour chaque Intensité de Calme sur soi (50% Max)\n+<style=\"highlight\">30</style>% de Dégâts en Coup Critique\nInflige +0.5% de dégâts pour chaque 1% de PV manquants sur soi (25% Max)\n<style=\"highlight\">Si cette Capacité cible un seul ennemi, inflige +100% de dégâts supplémentaires (En Affrontement Concentré, une seule Partie)</style>",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Saignement"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Paralysie au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coup de Batte",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Coup de Batte",
+          "desc": "Si la cible a 5 [Burst] ou plus, +1 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Coup de Batte",
+          "desc": "Si la cible a 5 [Burst] ou plus, +<style=\"highlight\">2</style> de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Confrontation",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 6 [Burst] ou plus, inflige 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Confrontation",
+          "desc": "[WinDuel] Inflige +2 de Compte de [Burst]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 6 [Burst] ou plus, inflige 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Confrontation",
+          "desc": "<style=\"highlight\">[WhenUse] Si la cible a 6 [Burst] ou plus, +1 de Puissance de Pièce</style>\n[WinDuel] Inflige +2 de Compte de [Burst]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 4 [Burst] ou plus, inflige 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Impitoyable",
+          "desc": "[WhenUse] Si la cible a 6 [Burst] ou plus, +1 de Puissance de Pièce\n[WinDuel] Inflige 2 [AttackDown]",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 6 [Burst] ou plus, inflige 2 [AttackDown] au prochain tour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Impitoyable",
+          "desc": "<style=\"highlight\">[WhenUse] Si la cible a 3 [Burst] ou plus, +1 de Puissance de Duel</style>\n[WhenUse] Si la cible a 6 [Burst] ou plus, +1 de Puissance de Pièce\n[WinDuel] Inflige 2 [AttackDown]",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la cible a 6 [Burst] ou plus, inflige 2 [AttackDown] au prochain tour"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Riposte",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Riposte",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dédication Studieuse",
+          "desc": "Gagne ([KnowledgeExplored] * 3% des PV Max) de Bouclier si cette Capacité est Défaussée\n[WhenUse] [Discard] 1 Capacité avec le plus haut rang de tous les Emplacements de Capacité de cette unité",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Dédication Studieuse",
+          "desc": "Gagne ([KnowledgeExplored] * <style=\"highlight\">4%</style> des PV Max) de Bouclier si cette Capacité est Défaussée\n[WhenUse] [Discard] 1 Capacité avec le plus bas rang de tous les Emplacements de Capacité de cette unité\n<style=\"highlight\">[WhenUse] À 2 [KnowledgeExplored] ou plus, +1 de Puissance de Duel\n[WinDuel] Gagne 2 d’[KnowledgeTraining] (une fois par tour)</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dédication Studieuse",
+          "desc": "Gagne ([KnowledgeExplored] * <style=\"highlight\">5%</style> des PV Max) de Bouclier si cette Capacité est Défaussée\n[WhenUse] [Discard] 1 Capacité avec le plus bas rang de tous les Emplacements de Capacité de cette unité\n<style=\"highlight\">[WhenUse] Gagne ([KnowledgeExplored] - 1) de Puissance de Duel (2 max)</style>\n[WinDuel] Gagne 2 d’[KnowledgeTraining] (une fois par tour)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Compte de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Moment d’Érudition",
+          "desc": "[StartBattle] Gagne de l’[KnowledgeTraining] égale à [KnowledgeExplored] sur soi\n[WhenUse] [Discard] 2 des Capacités de cette unité par ordre ascendant de rang sur tous ses Emplacements de Capacité",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige de la [Sinking] égale à [KnowledgeExplored]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Moment d’Érudition",
+          "desc": "<style=\"highlight\">Inflige +3% de dégâts supplémentaires pour chaque [KnowledgeExplored] sur soi (9% max)</style>\n[StartBattle] Applique de l’[KnowledgeTraining] égale à [KnowledgeExplored] sur soi <style=\"highlight\">à un allié aléatoire</style> et à soi-même <style=\"highlight\">(priorise les alliés avec [Discard] ayant le moins d’[KnowledgeTraining])</style>\n[WhenUse] [Discard] 2 des Capacités de cette unité par ordre ascendant de rang sur tous ses Emplacements de Capacité\n<style=\"highlight\">[WhenUse] Si la cible a 6 [Sinking] ou plus, +1 de Puissance de Pièce</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige de la [Sinking] égale à [KnowledgeExplored]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Moment d’Érudition",
+          "desc": "Inflige <style=\"highlight\">+5%</style> de dégâts supplémentaires pour chaque [KnowledgeExplored] sur soi (<style=\"highlight\">15%</style> max)\n[StartBattle] Applique de l’[KnowledgeTraining] égale à [KnowledgeExplored] sur soi <style=\"highlight\">à 2 alliés aléatoires</style> et à soi-même (priorise les alliés avec [Discard] ayant le moins d’[KnowledgeTraining])\n[WhenUse] [Discard] 2 des Capacités de cette unité par ordre ascendant de rang sur tous ses Emplacements de Capacité\n<style=\"highlight\">[WhenUse] +1 de Puissance de Pièce pour chaque 6 [Sinking] sur la cible (2 max)</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige de la [Sinking] égale à <style=\"highlight\">([KnowledgeExplored] * 2)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Brûler le Savoir",
+          "desc": "Inflige +3% de dégâts supplémentaires pour chaque [KnowledgeExplored] sur soi (18% max)\n[WhenUse] Si la cible a 6 [Sinking] ou plus, +1 de Puissance de Pièce\n[BeforeAttack] Consomme toute [KnowledgeTraining] sur soi et gagne la moitié de cette valeur en [KnowledgeExplored] supplémentaire (arrondi à l’inférieur)\n[EndSkill] À 4 d’[KnowledgeExplored] ou plus, remet la valeur à 1 (si cette Capacité vainc un ennemi, remet la valeur à 3 à la place)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige de l’Intensité/Compte de [Sinking] égal à la valeur d’[KnowledgeExplored] à la cible (la répartition de quantité d’Intensité ou de Compte est déterminée aléatoirement)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Brûler le Savoir",
+          "desc": "Inflige <style=\"highlight\">+5%</style> de dégâts supplémentaires pour chaque [KnowledgeExplored] (<style=\"highlight\">45%</style> max)\n<style=\"highlight\">[WhenUse] +1 de Puissance de Pièce pour chaque 6 [Sinking] sur la cible (2 max)</style>\n[BeforeAttack] Consomme toute [KnowledgeTraining] sur soi et gagne <style=\"highlight\">cette même valeur</style> en [KnowledgeExplored] supplémentaire\n[EndSkill] À 4 d’[KnowledgeExplored] ou plus, remet la valeur à 1 (si cette Capacité vainc un ennemi, remet la valeur à 3 à la place)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige de l’Intensité/Compte de [Sinking] égal à la valeur d’[KnowledgeExplored] à la cible (la répartition de quantité d’Intensité ou de Compte est déterminée aléatoirement)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Étude Concentrée",
+          "desc": "[WhenUse] [Discard] 1 Capacité avec le plus haut rang de tous les Emplacements de Capacité de cette unité",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Étude Concentrée",
+          "desc": "[WhenUse] [Discard] 1 Capacité avec le plus haut rang de tous les Emplacements de Capacité de cette unité\n<style=\"highlight\">[WhenUse] Gagne +6 d’Aggro sur cet Emplacement de Capacité au prochain tour</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Allez",
+          "desc": "[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +1 de Compte de [Breath]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Allez",
+          "desc": "Si la Vitesse de cette unité est plus rapide que celle de la cible de 3 ou plus, +1 de Puissance de Pièce\n[WhenUse] Si la cible a 15 [Burst] ou plus et 3 de Compte de [Burst] ou plus, cette Capacité n’inflige pas d’Intensité de [Burst] avec ses effets mais ne consomme pas de Compte de [Burst] En Touche\n[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +1 de Compte de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Allez",
+          "desc": "Si la Vitesse de cette unité est plus rapide que celle de la cible, gagne de la Puissance de Pièce selon la différence de Vitesse (+1 de Puissance de Pièce pour chaque 3 de différence de Vitesse ; 2 max)\n[WhenUse] Si la cible a 15 [Burst] ou plus et 3 de Compte de [Burst] ou plus, cette Capacité n’inflige pas d’Intensité de [Burst] avec ses effets mais ne consomme pas de Compte de [Burst] En Touche\n[WhenUse] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +1 de Compte de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la Vitesse de cette unité est plus rapide que celle de la cible, inflige de la [Burst] égale à la différence de Vitesse (3 max)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fente",
+          "desc": "[WinDuel] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +1 de Compte de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Fente",
+          "desc": "Si la Vitesse de cette unité est plus rapide que celle de la cible de 3 ou plus, +1 de Puissance de Pièce\n[WhenUse] Si la cible a 15 [Burst] ou plus et 3 de Compte de [Burst] ou plus, cette Capacité n’inflige pas d’Intensité ou de Compte de [Burst] avec ses effets mais ne consomme pas de Compte de [Burst] En Touche\n[WinDuel] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +1 de Compte de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] À 7 de Vitesse ou plus, inflige +2 de Compte de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fente",
+          "desc": "Si la Vitesse de cette unité est plus rapide que celle de la cible de 3 ou plus, +1 de Puissance de Pièce\n[WhenUse] Si la cible a 15 [Burst] ou plus et 3 de Compte de [Burst] ou plus, cette Capacité n’inflige pas d’Intensité ou de Compte de [Burst] avec ses effets mais ne consomme pas de Compte de [Burst] En Touche\n[WinDuel] Gagne +2 de Compte de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne +2 de Compte de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gagne 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Si cette unité n’inflige pas de [Burst], +5% de Dégâts en Touche Critique pour chaque Intensité et Compte de [Burst] qui auraient été infligés</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] À 7 de Vitesse ou plus, inflige +2 de Compte de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Salut",
+          "desc": "Si la Vitesse de cette unité est plus rapide que celle de la cible de 2 ou plus, +1 de Puissance de Pièce\n[WhenUse] Si la cible a 15 [Burst] ou plus et 3 de Compte de [Burst] ou plus, cette Capacité ne consomme pas de Compte de [Burst] En Touche\n[WinDuel] Gagne 5 [Breath]\n- Si la cible a [ConcentratedAttackMeursault], gagne 5 [Breath] supplémentaire",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] La Pièce finale inflige +10% de dégâts supplémentaires"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] La Pièce finale inflige +10% de dégâts supplémentaires"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige +10% de dégâts supplémentaires pour chaque [ConcentratedAttackMeursault] sur l’Emplacement"
+                },
+                {
+                  "desc": "+30% de Dégâts en Touche Critique"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Salut",
+          "desc": "<style=\"highlight\">Si la Vitesse de cette unité est plus rapide que celle de la cible, gagne de la Puissance de Pièce selon la différence de Vitesse (+1 de Puissance de Pièce pour chaque 2 de différence de Vitesse ; 3 max)</style>\n[WhenUse] Si la cible a 15 [Burst] ou plus et 3 de Compte de [Burst] ou plus, cette Capacité ne consomme pas de Compte de [Burst] En Touche\n[WinDuel] Gagne 5 [Breath]\n- Si la cible a [ConcentratedAttackMeursault], gagne 5 [Breath] supplémentaire",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] La Pièce finale inflige +10% de dégâts supplémentaires"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] La Pièce finale inflige +10% de dégâts supplémentaires"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige <style=\"highlight\">+20%</style> de dégâts supplémentaires pour chaque [ConcentratedAttackMeursault] sur l’Emplacement"
+                },
+                {
+                  "desc": "+30% de Dégâts en Touche Critique"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Inflige +2% de Dégâts en Touche Critique pour chaque [Burst] sur la cible (30% max)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkill] Si cette Pièce a vaincu la cible ou a détruit une Partie, Réutilise cette Capacité sur une cible aléatoire (ne s’active pas en Réutilisation)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Défensive",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Défensive",
+          "desc": "[WhenUse] Si la Vitesse de cette unité est plus rapide que celle de la cible de 3 ou plus, +2 de Puissance de Pièce",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

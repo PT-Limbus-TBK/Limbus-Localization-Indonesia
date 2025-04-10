@@ -1,0 +1,49 @@
+{
+  "dataList": [
+    {
+      "id": 90110,
+      "name": "Homme de Main Déterminé du Kurokumo",
+      "desc": "Noyau"
+    },
+    {
+      "id": 90111,
+      "name": "Homme de Main Tendu du Kurokumo",
+      "desc": "Noyau"
+    },
+    {
+      "id": 90112,
+      "name": "Femme de Main Experte du Kurokumo",
+      "desc": "Noyau"
+    },
+    {
+      "id": 90113,
+      "name": "Femme de Main Fatiguée du Kurokumo",
+      "desc": "Noyau"
+    },
+    {
+      "id": 91013,
+      "name": "Capitaine du Kurokumo Jun",
+      "desc": "Noyau"
+    },
+    {
+      "id": 8151,
+      "name": "Peccatulum Irae ?",
+      "desc": "Noyau"
+    },
+    {
+      "id": 8152,
+      "name": "Peccatulum Morositatis ?",
+      "desc": "Noyau"
+    },
+    {
+      "id": 8153,
+      "name": "Kim au Chapeau de Bambou en Distorsion",
+      "desc": "Noyau"
+    },
+    {
+      "id": 8154,
+      "name": "Kim au Chapeau de Bambou Distordu",
+      "desc": "Noyau"
+    }
+  ]
+}

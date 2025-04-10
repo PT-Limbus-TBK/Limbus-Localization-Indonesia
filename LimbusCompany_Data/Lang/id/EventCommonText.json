@@ -1,0 +1,12 @@
+{
+  "dataList": [
+    {
+      "id": "event_bonus_description",
+      "content": "Pendant l’événement, avoir les Identités et E.G.O. listés dans votre équipe\n<color=#f8c200>augmente la quantité de [{0}] obtenue</color>."
+    },
+    {
+      "id": "event_bonus_preview",
+      "content": "Unités de Bonus d’Événement"
+    }
+  ]
+}

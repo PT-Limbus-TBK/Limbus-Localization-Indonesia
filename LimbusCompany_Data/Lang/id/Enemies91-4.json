@@ -1,0 +1,94 @@
+{
+  "dataList": [
+    {
+      "id": 90077,
+      "name": "Crabe de Déchets Aiguisé",
+      "desc": "Unité Ennemie"
+    },
+    {
+      "id": 90078,
+      "name": "Crabe de Déchets Piquant",
+      "desc": "Unité Ennemie"
+    },
+    {
+      "id": 90079,
+      "name": "Crabe de Déchets Dur",
+      "desc": "Unité Ennemie"
+    },
+    {
+      "id": 90080,
+      "name": "Crabe Canonnier",
+      "desc": "Unité Ennemie"
+    },
+    {
+      "id": 90081,
+      "name": "Crabe d’Artillerie à la Baïonnette",
+      "desc": "Unité Ennemie"
+    },
+    {
+      "id": 8063,
+      "name": "Crabe de Déchets Royal",
+      "desc": "Noyau"
+    },
+    {
+      "id": 806301,
+      "name": "Tête",
+      "desc": "Partie"
+    },
+    {
+      "id": 806302,
+      "name": "Carapace",
+      "desc": "Partie"
+    },
+    {
+      "id": 8070,
+      "name": "Crabe de Déchets Aiguisé",
+      "desc": "Noyau"
+    },
+    {
+      "id": 807001,
+      "name": "Corps",
+      "desc": "Partie"
+    },
+    {
+      "id": 8071,
+      "name": "Crabe de Déchets Piquant",
+      "desc": "Noyau"
+    },
+    {
+      "id": 807101,
+      "name": "Corps",
+      "desc": "Partie"
+    },
+    {
+      "id": 8072,
+      "name": "Crabe de Déchets Dur",
+      "desc": "Noyau"
+    },
+    {
+      "id": 807201,
+      "name": "Corps",
+      "desc": "Partie"
+    },
+    {
+      "id": 8073,
+      "name": "Crabe Canonnier",
+      "desc": "Noyau"
+    },
+    {
+      "id": 807301,
+      "name": "Corps",
+      "desc": "Partie"
+    },
+    {
+      "id": 8074,
+      "name": "Crabe d’Artillerie à la Baïonnette",
+      "desc": "Noyau"
+    },
+    {
+      "id": 807401,
+      "name": "Corps",
+      "desc": "Partie"
+    }
+  ]
+}

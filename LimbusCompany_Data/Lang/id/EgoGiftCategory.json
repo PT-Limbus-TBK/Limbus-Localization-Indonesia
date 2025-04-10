@@ -1,0 +1,48 @@
+{
+  "dataList": [
+    {
+      "id": "Combustion",
+      "name": "Brûlure"
+    },
+    {
+      "id": "Laceration",
+      "name": "Saignement"
+    },
+    {
+      "id": "Vibration",
+      "name": "Tremblement"
+    },
+    {
+      "id": "Burst",
+      "name": "Déchirure"
+    },
+    {
+      "id": "Sinking",
+      "name": "Lourdeur"
+    },
+    {
+      "id": "Breath",
+      "name": "Calme"
+    },
+    {
+      "id": "Charge",
+      "name": "Charge"
+    },
+    {
+      "id": "Random",
+      "name": "Aléatoire"
+    },
+    {
+      "id": "Slash",
+      "name": "Tranchant"
+    },
+    {
+      "id": "Penetrate",
+      "name": "Perçant"
+    },
+    {
+      "id": "Hit",
+      "name": "Contondant"
+    }
+  ]
+}

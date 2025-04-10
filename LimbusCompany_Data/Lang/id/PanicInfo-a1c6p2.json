@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "id": 1019,
+      "panicName": "Peinture Difforme",
+      "lowMoraleDescription": "Gagne 1 [Enhancement] et 1 [Vulnerable]",
+      "panicDescription": "Gagne 1 [PlusCoinValueUp] et 3 [Vulnerable]"
+    },
+    {
+      "id": 1021,
+      "panicName": "Vengeance",
+      "lowMoraleDescription": "Gagne 3 [DefenseDown] et 3 [AttackDmgUp]",
+      "panicDescription": "Gagne 6 [DefenseDown] et 5 [AttackDmgUp]"
+    },
+    {
+      "id": 1022,
+      "panicName": "Haine",
+      "lowMoraleDescription": "Duel Gagné : gagne 1 [AttackUp] au prochain tour. (3 fois par tour)\nDuel Perdu : gagne 1 [DefenseUp]. (3 fois par tour)",
+      "panicDescription": "Duel Gagné : gagne 1 [AttackUp] ce tour et au prochain tour (3 fois par tour)\nDuel Perdu : gagne 1 [DefenseUp] (3 fois par tour)\nFin du Tour : gagne 2 [Agility] au prochain tour"
+    }
+  ]
+}

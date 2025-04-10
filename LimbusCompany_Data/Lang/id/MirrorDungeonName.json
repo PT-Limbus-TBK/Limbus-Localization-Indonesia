@@ -1,0 +1,60 @@
+{
+  "dataList": [
+    {
+      "id": "mirrordungeon_name_1",
+      "content": "Miroir du Commencement"
+    },
+    {
+      "id": "mirrordungeon_name_2",
+      "content": "Miroir des Miroirs"
+    },
+    {
+      "id": "mirrordungeon_name_1_0",
+      "content": "Miroir du Commencement"
+    },
+    {
+      "id": "mirrordungeon_name_2_0",
+      "content": "Miroir des Miroirs - Normal"
+    },
+    {
+      "id": "mirrordungeon_name_2_1",
+      "content": "Miroir des Miroirs - Difficile"
+    },
+    {
+      "id": "mirrordungeon_name_3",
+      "content": "Miroir du Lac"
+    },
+    {
+      "id": "mirrordungeon_name_3_0",
+      "content": "Miroir du Lac - Normal"
+    },
+    {
+      "id": "mirrordungeon_name_3_1",
+      "content": "Miroir du Lac - Difficile"
+    },
+    {
+      "id": "mirrordungeon_name_4",
+      "content": "Miroir du Hurle-Vent"
+    },
+    {
+      "id": "mirrordungeon_name_4_0",
+      "content": "Miroir du Hurle-Vent - Simulation"
+    },
+    {
+      "id": "mirrordungeon_name_4_1",
+      "content": "Miroir du Hurle-Vent - Ritornello"
+    },
+    {
+      "id": "mirrordungeon_name_5",
+      "content": "Miroir du Rêve"
+    },
+    {
+      "id": "mirrordungeon_name_5_0",
+      "content": "Miroir du Rêve [NORMAL]"
+    },
+    {
+      "id": "mirrordungeon_name_5_1",
+      "content": "Miroir du Rêve [DIFFICILE]"
+    }
+  ]
+}

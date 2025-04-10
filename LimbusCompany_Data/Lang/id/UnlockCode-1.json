@@ -1,0 +1,74 @@
+{
+  "dataList": [
+    {
+      "id": 101,
+      "openCondition": "Complétez le Canto 1"
+    },
+    {
+      "id": 102,
+      "openCondition": "Complétez le Canto 2"
+    },
+    {
+      "id": 103,
+      "openCondition": "Complétez le Canto 3"
+    },
+    {
+      "id": 104,
+      "openCondition": "Complétez le Canto 4"
+    },
+    {
+      "id": 105,
+      "openCondition": "Complétez le Canto 5",
+      "askLevelUp": "Les limites de niveaux des Identités sont débloquées en progressant à travers l’histoire principale,\net le plus haut niveau atteignable avec ce ticket (Nv. {0})\nsera débloqué en complétant le Canto V de l’Histoire Principale."
+    },
+    {
+      "id": 106,
+      "openCondition": "Complétez le Canto 6",
+      "askLevelUp": "Les limites de niveaux des Identités sont débloquées en progressant à travers l’histoire principale,\net le plus haut niveau atteignable avec ce ticket (Nv. {0})\nsera débloqué en complétant le Canto VI de l’Histoire Principale."
+    },
+    {
+      "id": 9103,
+      "openCondition": "Complétez Hell's Chicken"
+    },
+    {
+      "id": 9104,
+      "openCondition": "Complétez S.E.A."
+    },
+    {
+      "id": 9105,
+      "openCondition": "Complétez le Miracle au District 20"
+    },
+    {
+      "id": 9106,
+      "openCondition": "Complétez la 2ème Nuit de Walpurgis"
+    },
+    {
+      "id": 9107,
+      "openCondition": "Complétez Offrir Ma Chair Pour Réclamer Leurs Os"
+    },
+    {
+      "id": 9109,
+      "openCondition": "Complétez L’Heure de Tuer le Temps"
+    },
+    {
+      "id": 107,
+      "openCondition": "Complétez le Canto 7"
+    },
+    {
+      "id": 9110,
+      "openCondition": "Complétez Le Crime du WARP Express"
+    },
+    {
+      "id": 9111,
+      "openCondition": "Complétez La 4ème Nuit de Walpurgis"
+    },
+    {
+      "id": 9113,
+      "openCondition": "Complétez La 5ème Nuit de Walpurgis"
+    },
+    {
+      "id": 9114,
+      "openCondition": "Complétez le Contrôle Régulier LCB"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "id": "Mepis",
+      "content": "Méphistophélès"
+    },
+    {
+      "id": "Backdoor",
+      "content": "La Porte de Service"
+    },
+    {
+      "id": "MirrorDungeon",
+      "content": "Donjons Miroir"
+    },
+    {
+      "id": "ResourceDungeon",
+      "content": "Donjons de Luxcavation"
+    },
+    {
+      "id": "MirrorSubway",
+      "content": "Réfractions Ferroviaires"
+    },
+    {
+      "id": "Line1",
+      "content": "Réfraction Ferroviaire 1"
+    },
+    {
+      "id": "Line2",
+      "content": "Réfraction Ferroviaire 2"
+    },
+    {
+      "id": "DieciAsso",
+      "content": "Association Dieci"
+    }
+  ]
+}

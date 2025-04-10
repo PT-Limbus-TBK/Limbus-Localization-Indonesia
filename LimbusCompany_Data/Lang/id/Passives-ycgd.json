@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "id": 9011001,
+      "name": "Frappe Vive",
+      "desc": "En Touche, inflige 1 Saignement (3 fois par tour)"
+    },
+    {
+      "id": 9011002,
+      "name": "Coupe Profonde",
+      "desc": "Duel Gagné : inflige +1 de Compte de Saignement"
+    },
+    {
+      "id": 9011301,
+      "name": "Coup Brutal",
+      "desc": "Inflige +1 Saignement supplémentaire lorsqu’une Capacité Offensive inflige du Saignement"
+    },
+    {
+      "id": 9101301,
+      "name": "Kokuuntō",
+      "desc": "+1 de Puissance Finale de Capacité Tranchante"
+    },
+    {
+      "id": 9101302,
+      "name": "Nettoyer",
+      "desc": "Lorsqu’un allié est vaincu, gagne 1 Emplacement de Capacité au prochain tour (Peut avoir jusqu’à 5 Emplacements max)"
+    }
+  ]
+}

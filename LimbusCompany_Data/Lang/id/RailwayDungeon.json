@@ -1,0 +1,26 @@
+{
+  "dataList": [
+    {
+      "id": 1,
+      "name": "Ligne 1"
+    },
+    {
+      "id": 2,
+      "name": "Ligne 2"
+    },
+    {
+      "id": 3,
+      "name": "Ligne 3"
+    },
+    {
+      "id": 4,
+      "name": "Ligne 4",
+      "longName": "Ligne 4"
+    },
+    {
+      "id": 5,
+      "name": "Ligne 5",
+      "longName": "Ligne 5"
+    }
+  ]
+}
